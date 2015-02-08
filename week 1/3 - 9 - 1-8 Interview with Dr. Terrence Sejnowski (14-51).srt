@@ -1,0 +1,1095 @@
+1
+00:00:00,290 --> 00:00:03,410
+This video will be especially fun, because
+I have
+
+2
+00:00:03,410 --> 00:00:08,855
+a chance now to interview my
+ co-instructor, Dr. Terrence Sejnowski.
+
+3
+00:00:08,855 --> 00:00:12,790
+Terrence's pioneering research in neural
+networks and computational
+
+4
+00:00:12,790 --> 00:00:16,000
+neural science, have made him a living
+legend.
+
+5
+00:00:16,000 --> 00:00:19,160
+Dr. Sejnowski is an investigator at Howard
+
+6
+00:00:19,160 --> 00:00:22,250
+Hughes medical institute, and the Francis
+Crick
+
+7
+00:00:22,250 --> 00:00:24,730
+professor at the Salk Institute for
+Biological
+
+8
+00:00:24,730 --> 00:00:29,300
+Studies where he directs the Computational
+Neurobiology Laboratory.
+
+9
+00:00:29,300 --> 00:00:32,460
+Above and beyond all of that Dr. Sejnowski
+is
+
+10
+00:00:32,460 --> 00:00:36,830
+also in the elite group of only ten living 
+scientists.
+
+11
+00:00:36,830 --> 00:00:39,080
+To have been elected to all three of
+
+12
+00:00:39,080 --> 00:00:43,900
+the national academies, in engineering,
+science, and medicine.
+
+13
+00:00:45,030 --> 00:00:48,590
+What I think perhaps is most impressive
+however is that Terry
+
+14
+00:00:48,590 --> 00:00:50,920
+has also graduated more computational
+
+15
+00:00:50,920 --> 00:00:54,770
+neural scientists, than any other
+scientist.
+
+16
+00:00:54,770 --> 00:00:55,938
+In some sense then.
+
+17
+00:00:55,938 --> 00:00:58,592
+This makes Dr. Terrence Sinalski a leading
+
+18
+00:00:58,592 --> 00:01:01,830
+father figure for the modern field of
+neuroscience.
+
+19
+00:01:03,240 --> 00:01:06,730
+The ultimate goal of Dr. Sinalski research
+is to
+
+20
+00:01:06,730 --> 00:01:12,120
+build linking principles, from brain to
+behavior using computational models.
+
+21
+00:01:13,220 --> 00:01:17,140
+Today, I'm going to ask Terry a few
+questions about how he learns.
+
+22
+00:01:17,140 --> 00:01:19,750
+And how he thinks about learning, so that
+we all might
+
+23
+00:01:19,750 --> 00:01:23,060
+get a better sense of how to improve our
+own learning.
+
+24
+00:01:26,110 --> 00:01:28,300
+So what do you do to help yourself learn
+
+25
+00:01:28,300 --> 00:01:32,200
+more easily, when your looking at
+something completely new?
+
+26
+00:01:32,200 --> 00:01:38,210
+>> Well I like to get into the thick of
+it.
+
+27
+00:01:38,210 --> 00:01:42,440
+I don't get much out of just going and
+reading a lot of books.
+
+28
+00:01:42,440 --> 00:01:48,870
+And, when I was in Graduate School, I made
+a transition from Physics to Biology.
+
+29
+00:01:48,870 --> 00:01:53,100
+And the way I did it was to get into a
+Biology lab.
+
+30
+00:01:53,100 --> 00:01:54,720
+And get involved in experiments.
+
+31
+00:01:54,720 --> 00:01:57,270
+And I, I'm a firm believer in learning by
+
+32
+00:01:57,270 --> 00:02:02,690
+doing, and learning by osmosis from people
+who are experts.
+
+33
+00:02:02,690 --> 00:02:03,900
+>> How do you keep yourself paying
+
+34
+00:02:03,900 --> 00:02:06,385
+attention, during something like a boring
+lecture?
+
+35
+00:02:06,385 --> 00:02:12,342
+>> I found that there isn't, a simple way
+to keep yourself
+
+36
+00:02:12,342 --> 00:02:18,330
+attending something that you're not
+interested in.
+
+37
+00:02:18,330 --> 00:02:21,800
+But I have found a little trick to waylay
+
+38
+00:02:21,800 --> 00:02:25,110
+the, the speaker, and that is by asking a
+question.
+
+39
+00:02:26,560 --> 00:02:30,440
+And the interruption often, gives rise to
+
+40
+00:02:30,440 --> 00:02:32,850
+a discussion that is a lot more
+interesting.
+
+41
+00:02:32,850 --> 00:02:35,570
+And it actually follows the general
+principle which is that
+
+42
+00:02:35,570 --> 00:02:39,540
+you learn more by active engagement rather
+than passive listening.
+
+43
+00:02:41,240 --> 00:02:46,350
+>> So, what do you do to get into and take
+advantage of diffuse mode thinking?
+
+44
+00:02:47,540 --> 00:02:53,840
+I find that when I'm jogging, or out
+getting exercise, that it's a wonderful
+
+45
+00:02:53,840 --> 00:03:00,410
+way to get the mind disengaged, from the
+normal train of thought.
+
+46
+00:03:00,410 --> 00:03:03,690
+And I find that it's very very possible to
+
+47
+00:03:03,690 --> 00:03:06,610
+to sort of come up with new thoughts, new
+ideas.
+
+48
+00:03:06,610 --> 00:03:08,330
+And it's almost as if your brain goes into
+a
+
+49
+00:03:08,330 --> 00:03:12,200
+new mode, you're running along, things are
+passing you by.
+
+50
+00:03:12,200 --> 00:03:15,060
+And you start thinking about what's
+happening.
+
+51
+00:03:15,060 --> 00:03:18,700
+For example, things that, that your brain
+has been working
+
+52
+00:03:18,700 --> 00:03:22,700
+on, your out of conscious thoughts bubble
+to the surface.
+
+53
+00:03:22,700 --> 00:03:29,670
+And often new ideas that are going to be
+then helpful to you later on.
+
+54
+00:03:29,670 --> 00:03:33,740
+The only problem I have is remembering all
+those great ideas.
+
+55
+00:03:33,740 --> 00:03:37,560
+Because when I get back and take a shower,
+then a lot of them have evaporated.
+
+56
+00:03:37,560 --> 00:03:40,540
+And that's why I, I like to take a little
+notebook along with me,
+
+57
+00:03:40,540 --> 00:03:46,099
+so I can take notes and remember what it
+is that I was thinking about.
+
+58
+00:03:49,580 --> 00:03:53,650
+>> So, do you multitask, or, or if you
+don't, how
+
+59
+00:03:53,650 --> 00:03:58,300
+do you resist the urge to multitask when
+you want to multitask?
+
+60
+00:03:58,300 --> 00:04:00,580
+>> Well, I wouldn't survive if I didn't
+multitask.
+
+61
+00:04:00,580 --> 00:04:06,530
+And most of my talking with students,
+listening to lectures,
+
+62
+00:04:06,530 --> 00:04:10,620
+interacting with a lot of people who are
+passing through, visitors.
+
+63
+00:04:10,620 --> 00:04:12,760
+There's just a lot things that are
+bombarding
+
+64
+00:04:12,760 --> 00:04:17,240
+you, email, texting any these are very
+important things
+
+65
+00:04:17,240 --> 00:04:19,510
+that you want to do, but if you can't
+
+66
+00:04:19,510 --> 00:04:23,960
+juggle them, it's hard to get through the
+day.
+
+67
+00:04:23,960 --> 00:04:31,700
+However, I, I enjoy the evenings when the
+hubbub of the day quiets down, and I get a
+
+68
+00:04:31,700 --> 00:04:35,220
+chance to go into a, a more reflective
+mode,
+
+69
+00:04:35,220 --> 00:04:37,160
+and that's when I actually get my best
+work done.
+
+70
+00:04:38,320 --> 00:04:42,470
+>> Do you do two things at the same time
+ever?
+
+71
+00:04:42,470 --> 00:04:45,270
+>> Well, you know, you can't actually do
+two things,
+
+72
+00:04:45,270 --> 00:04:48,840
+consciously, at the same time, because
+those will get mixed up.
+
+73
+00:04:48,840 --> 00:04:51,170
+It, its is possible with a lot of
+training, actually, to do
+
+74
+00:04:51,170 --> 00:04:55,346
+two things at once, is, but it's, it's,
+you're not doing it efficiently.
+
+75
+00:04:55,346 --> 00:04:59,280
+For me, multitasking is, is being able to
+switch
+
+76
+00:04:59,280 --> 00:05:04,500
+back and forth, context switching from one
+topic to another.
+
+77
+00:05:04,500 --> 00:05:06,240
+And some people are better at that than
+others.
+
+78
+00:05:06,240 --> 00:05:09,650
+In other words sometimes takes a while to
+get into the swing
+
+79
+00:05:09,650 --> 00:05:12,600
+of things if you're in, in the middle of
+writing a paper.
+
+80
+00:05:12,600 --> 00:05:15,320
+For example it may take hours before you
+get to the point where
+
+81
+00:05:15,320 --> 00:05:16,470
+you can actually be productive in
+
+82
+00:05:16,470 --> 00:05:20,545
+area, actually able to get something
+accomplished.
+
+83
+00:05:20,545 --> 00:05:25,520
+But if, if, if you can you know after
+getting lay you
+
+84
+00:05:25,520 --> 00:05:31,260
+know, into the middle of something
+switching from that to another task.
+
+85
+00:05:31,260 --> 00:05:33,110
+Is, is sometimes very difficult to do, if,
+
+86
+00:05:33,110 --> 00:05:36,560
+if you're, if, if you're middle of
+something.
+
+87
+00:05:36,560 --> 00:05:37,800
+But, I can do that very easily.
+
+88
+00:05:37,800 --> 00:05:38,920
+I can switch back and forth.
+
+89
+00:05:38,920 --> 00:05:40,500
+And I seem to be able to go back to the
+
+90
+00:05:40,500 --> 00:05:44,920
+original task, and, and, and take up where
+I left off.
+
+91
+00:05:44,920 --> 00:05:49,600
+So, so that's one way of, of accomplishing
+a lot and I get
+
+92
+00:05:49,600 --> 00:05:54,070
+I have, fortunately I have a lot of very
+good students and helpers.
+
+93
+00:05:54,070 --> 00:05:58,770
+And enormously productive environment that
+I'm working in, so
+
+94
+00:05:58,770 --> 00:06:01,280
+it's been, it's really a joy to be here.
+
+95
+00:06:02,690 --> 00:06:08,000
+>> How do you apply your knowledge of
+neuroscience, to your own learning?
+
+96
+00:06:08,000 --> 00:06:16,840
+Well, you know, I think there are many
+little ways that, I have applied what I've
+
+97
+00:06:16,840 --> 00:06:18,620
+actually learned in the lab, and let me
+
+98
+00:06:18,620 --> 00:06:20,770
+give you just one example to make it
+concrete.
+
+99
+00:06:22,170 --> 00:06:23,510
+One of my colleagues at the Salk
+
+100
+00:06:23,510 --> 00:06:26,920
+Institute, Rusty Gage, made a very
+important discovery.
+
+101
+00:06:26,920 --> 00:06:29,480
+If you read the textbooks, it will tell
+you that all
+
+102
+00:06:29,480 --> 00:06:33,120
+the neurons that you have in your brain
+you had a birth.
+
+103
+00:06:33,120 --> 00:06:38,750
+And after birth, the wiring takes place
+and learning,
+
+104
+00:06:38,750 --> 00:06:43,080
+and that changes at the, the connections
+between the neurons.
+
+105
+00:06:43,080 --> 00:06:46,890
+But the, but they're the same old neurons
+that you had when you were born.
+
+106
+00:06:46,890 --> 00:06:48,200
+Some die.
+
+107
+00:06:48,200 --> 00:06:51,350
+You know, so there is shrinkage of your,
+of your cortex.
+
+108
+00:06:52,550 --> 00:06:55,510
+However, Rusty discovered that, in an
+important part
+
+109
+00:06:55,510 --> 00:06:58,120
+of your brain for learning, and memory,
+the Hippocampus.
+
+110
+00:06:58,120 --> 00:07:02,860
+And which is located right in the middle
+here, of this model brain.
+
+111
+00:07:05,250 --> 00:07:09,320
+New neurons are being born, even in your
+adulthood.
+
+112
+00:07:10,370 --> 00:07:13,320
+And, this, this is very important for
+learning and memory.
+
+113
+00:07:13,320 --> 00:07:17,790
+It is obviously something that is very,
+very
+
+114
+00:07:17,790 --> 00:07:20,050
+useful to be able to have new neurons.
+
+115
+00:07:21,560 --> 00:07:23,520
+Now here's what we discovered together.
+
+116
+00:07:25,290 --> 00:07:26,260
+We discovered that.
+
+117
+00:07:28,430 --> 00:07:34,150
+If you have a animal, we use a, a rat as
+our model system.
+
+118
+00:07:34,150 --> 00:07:38,760
+And, if you give it an enriched
+environment, in which the rat
+
+119
+00:07:38,760 --> 00:07:42,010
+is able to move around, and do things, and
+interact with other rats.
+
+120
+00:07:42,010 --> 00:07:46,550
+That, and then look in the hippocampus,
+you find that the hip,
+
+121
+00:07:46,550 --> 00:07:48,050
+the, the strengths of the connections
+
+122
+00:07:48,050 --> 00:07:50,520
+between the neurons, is much stronger
+there.
+
+123
+00:07:50,520 --> 00:07:54,880
+It, it can be made by a factor of two,
+much stronger than in
+
+124
+00:07:54,880 --> 00:07:58,530
+a rat that has been kept in a cage where
+there is impoverished environment.
+
+125
+00:07:59,770 --> 00:08:02,840
+Now, and here's now the, the key, okay so
+having an enriched
+
+126
+00:08:02,840 --> 00:08:06,070
+environment is, is, is even as an adult is
+going to help you.
+
+127
+00:08:06,070 --> 00:08:06,210
+Right?
+
+128
+00:08:06,210 --> 00:08:09,750
+Instead of locking yourself, a monk in the
+room you really
+
+129
+00:08:09,750 --> 00:08:14,020
+want to be surrounded by other people who
+ar stimulating you.
+
+130
+00:08:14,020 --> 00:08:16,360
+And events that are happening that you
+
+131
+00:08:16,360 --> 00:08:19,450
+can actively participate in, so, so that
+important.
+
+132
+00:08:19,450 --> 00:08:24,470
+Now here is something Rusty discovered
+which I think is incredibly important.
+
+133
+00:08:24,470 --> 00:08:30,630
+That in the absence of an enriched
+environment exercise will also
+
+134
+00:08:30,630 --> 00:08:35,280
+increase the number of new neurons that
+are being born and survive.
+
+135
+00:08:35,280 --> 00:08:40,560
+And, so I, am very, avid at running.
+
+136
+00:08:40,560 --> 00:08:43,110
+I've already mentioned that I get lots of
+good ideas when
+
+137
+00:08:43,110 --> 00:08:46,610
+I run, but I also, know, that my brain is,
+
+138
+00:08:46,610 --> 00:08:49,280
+helping me remember things, because of the
+fact that I
+
+139
+00:08:49,280 --> 00:08:52,670
+have new neurons being born, and surviving
+in my hippocampus.
+
+140
+00:08:53,828 --> 00:08:57,440
+So that's one of many examples that I can
+point to,
+
+141
+00:08:57,440 --> 00:08:58,560
+in which what we've learned
+
+142
+00:08:58,560 --> 00:09:02,520
+about neuroscientists, from neuroscience,
+has really
+
+143
+00:09:02,520 --> 00:09:05,900
+changed the way I think and its a pity if
+you
+
+144
+00:09:05,900 --> 00:09:11,020
+look at the way our, our new educational
+reforms and schools.
+
+145
+00:09:11,020 --> 00:09:14,530
+What do they cut out when they want to add
+a new, a,
+
+146
+00:09:14,530 --> 00:09:20,010
+session for example learning something,
+for example, how to pass a test, right.
+
+147
+00:09:20,010 --> 00:09:23,710
+Tests are being given now to help assess,
+how well
+
+148
+00:09:23,710 --> 00:09:25,598
+a student is doing and how well a school
+is doing.
+
+149
+00:09:25,598 --> 00:09:30,990
+Well, it's recess.
+
+150
+00:09:30,990 --> 00:09:32,610
+And what happens during a recess?
+
+151
+00:09:32,610 --> 00:09:34,060
+Exercise.
+
+152
+00:09:34,060 --> 00:09:35,950
+It's running around.
+
+153
+00:09:35,950 --> 00:09:38,660
+It's exactly what you need, what your brain
+needs.
+
+154
+00:09:38,660 --> 00:09:45,920
+It needs that moment of pause of, of using
+your muscles rather than your brain.
+
+155
+00:09:45,920 --> 00:09:48,840
+To be able to process that information and
+
+156
+00:09:48,840 --> 00:09:51,480
+to, and, and get the neurons working on
+it.
+
+157
+00:09:51,480 --> 00:09:54,930
+So I think that this is, again something
+that is, should be
+
+158
+00:09:54,930 --> 00:09:58,170
+a policy that we need to have our children
+out there running around.
+
+159
+00:10:00,900 --> 00:10:04,260
+>> Have there been any special techniques
+you've acquired over
+
+160
+00:10:04,260 --> 00:10:08,070
+the years that help you focus, learn or
+create more effectively.
+
+161
+00:10:09,580 --> 00:10:10,670
+I find that,
+
+162
+00:10:12,900 --> 00:10:15,390
+being in a, a creative environment,
+
+163
+00:10:17,700 --> 00:10:19,790
+where other people, are, are
+
+164
+00:10:22,170 --> 00:10:26,760
+creative is, is, is a way of, enhancing
+your own creativity.
+
+165
+00:10:26,760 --> 00:10:27,460
+I, I think that.
+
+166
+00:10:29,460 --> 00:10:34,710
+Although the image we have of the creative
+thinker as being isolated
+
+167
+00:10:34,710 --> 00:10:38,350
+genius may be true of some people, it's
+not true of me.
+
+168
+00:10:38,350 --> 00:10:41,610
+I really find that I have better ideas if
+I'm
+
+169
+00:10:41,610 --> 00:10:44,806
+talking to somebody, and trying to explain
+to them my ideas.
+
+170
+00:10:44,806 --> 00:10:49,930
+Often, that process can, it boosts
+
+171
+00:10:49,930 --> 00:10:55,270
+the creative process and the facts, I
+think that you know,
+
+172
+00:10:55,270 --> 00:11:00,510
+having other people around to bounce
+
+173
+00:11:00,510 --> 00:11:05,190
+your ideas off of is really for me a very,
+very important part of doing science.
+
+174
+00:11:07,770 --> 00:11:09,500
+>> How about test taking?
+
+175
+00:11:09,500 --> 00:11:11,120
+Any special advice there?
+
+176
+00:11:12,690 --> 00:11:14,590
+>> Tests are like any other skill.
+
+177
+00:11:14,590 --> 00:11:15,790
+You can learn them.
+
+178
+00:11:15,790 --> 00:11:17,910
+You can learn to be a better test
+taker.
+
+179
+00:11:17,910 --> 00:11:20,330
+And you have a lot of good ideas
+about that.
+
+180
+00:11:20,330 --> 00:11:28,140
+I've discovered that the... what
+you need... things to avoid, for example.
+
+181
+00:11:28,140 --> 00:11:31,280
+Don't get hung up if you can't answer a
+question.
+
+182
+00:11:31,280 --> 00:11:33,960
+Go on to the next, because you can always
+
+183
+00:11:33,960 --> 00:11:37,960
+come back and in fact, often, the answer
+to
+
+184
+00:11:37,960 --> 00:11:41,560
+the problem that was holding you back may
+actually
+
+185
+00:11:41,560 --> 00:11:44,040
+pop in to your brain later on in the test.
+
+186
+00:11:44,040 --> 00:11:47,899
+This is how our brains work, things work
+along parallel tracks.
+
+187
+00:11:50,410 --> 00:11:53,900
+How do you approach your creative work in
+science?
+
+188
+00:11:53,900 --> 00:11:56,300
+How do you keep yourself creative in the
+face
+
+189
+00:11:56,300 --> 00:12:00,840
+of the onslaught of more routine day by
+day tasks?
+
+190
+00:12:00,840 --> 00:12:06,530
+>> I've been very fortunate, because I
+have
+
+191
+00:12:06,530 --> 00:12:12,770
+a great lab, and my students and colleagues,
+keep me
+
+192
+00:12:12,770 --> 00:12:20,010
+young in terms of learning new things,
+looking at things with new perspectives.
+
+193
+00:12:20,010 --> 00:12:26,920
+So, I think that having youth around
+really
+
+194
+00:12:26,920 --> 00:12:29,510
+is a, a great way to keep yourself
+youthful.
+
+195
+00:12:30,980 --> 00:12:33,270
+>> If you had any advice for a young high
+school
+
+196
+00:12:33,270 --> 00:12:36,870
+or college student, about how to learn
+effectively, what would you say?
+
+197
+00:12:36,870 --> 00:12:43,520
+>> That success isn't necessarily come by
+being smart.
+
+198
+00:12:43,520 --> 00:12:46,660
+I know a lot of smart people who are not
+successful.
+
+199
+00:12:46,660 --> 00:12:51,920
+But I know a lot of people, who are very,
+very passionate.
+
+200
+00:12:54,020 --> 00:12:54,800
+And persistent.
+
+201
+00:12:54,800 --> 00:13:02,410
+A lot of success in life is that passion
+and persistence, of
+
+202
+00:13:02,410 --> 00:13:08,920
+really staying the course, staying working
+on it, and, not letting go.
+
+203
+00:13:08,920 --> 00:13:10,320
+Not giving up.
+
+204
+00:13:10,320 --> 00:13:14,360
+That's really, I think the most important,
+quality that I
+
+205
+00:13:14,360 --> 00:13:17,750
+see in students, that I work with, who are
+successful.
+
+206
+00:13:17,750 --> 00:13:20,100
+>> Terry, I cannot thank you enough, for
+your
+
+207
+00:13:20,100 --> 00:13:24,090
+great answers, that I think people will
+find very helpful.
+
+208
+00:13:24,090 --> 00:13:27,940
+>> Wonderful, now I want to, this is, give
+a little intro here.
+
+209
+00:13:29,050 --> 00:13:32,910
+I'd like to introduce you to Francis
+Crick's brain.
+
+210
+00:13:35,040 --> 00:13:40,450
+So, I first met Francis 30 years ago, and
+this brain was sitting in his office.
+
+211
+00:13:41,670 --> 00:13:46,610
+And, Francis was a close colleague of, I,
+moved here about
+
+212
+00:13:46,610 --> 00:13:49,830
+25 years ago, and got to know Francis much
+much better.
+
+213
+00:13:49,830 --> 00:13:55,640
+And one day, we were chatting, and Francis
+pointed out
+
+214
+00:13:55,640 --> 00:13:58,900
+this brain that had been sitting there for
+decades and
+
+215
+00:13:58,900 --> 00:14:01,210
+said Terry do you know that I just
+recently realized
+
+216
+00:14:01,210 --> 00:14:04,270
+that this brain is much bigger than a real
+brain.
+
+217
+00:14:04,270 --> 00:14:07,430
+And in fact you could not fit this brain
+in
+
+218
+00:14:07,430 --> 00:14:10,560
+my skull if you actually look at the
+relative sizes.
+
+219
+00:14:10,560 --> 00:14:13,500
+It's, it's, this is a teaching tool for
+medical students.
+
+220
+00:14:13,500 --> 00:14:15,860
+You know, you could take apart the
+different parts of the brain.
+
+221
+00:14:15,860 --> 00:14:21,170
+But isn't it interesting that Francis Crick
+didn't realize that
+
+222
+00:14:21,170 --> 00:14:26,370
+until much, much later, when he actually
+looked at it with new eyes?
+
+223
+00:14:26,370 --> 00:14:27,810
+And so, you know, this is something about.
+
+224
+00:14:28,840 --> 00:14:30,860
+Learning with fresh new eyes.
+
+225
+00:14:30,860 --> 00:14:37,780
+>> Isn't it extraordinary, even in a Nobel
+Prize winning discoverer of DNA.
+
+226
+00:14:37,780 --> 00:14:39,711
+>> Well, there are things to discover
+every
+
+227
+00:14:39,711 --> 00:14:42,138
+day about things around us, ordinary
+things, that
+
+228
+00:14:42,138 --> 00:14:43,628
+you just have to look at them with
+
+229
+00:14:43,628 --> 00:14:46,133
+a different set of eyes and a different
+perspective.
+
+230
+00:14:46,133 --> 00:14:46,287
+[BLANK_AUDIO]

@@ -1,0 +1,922 @@
+1
+00:00:00,192 --> 00:00:05,196
+[BLANK_AUDIO]
+
+2
+00:00:05,196 --> 00:00:08,003
+For this interview, it's a pleasure to
+introduce
+
+3
+00:00:08,003 --> 00:00:10,745
+you to one of today's leading figures in
+learning
+
+4
+00:00:10,745 --> 00:00:14,205
+how to learn more effectively, Dr. Norman
+Fortenberry, the
+
+5
+00:00:14,205 --> 00:00:18,210
+executive director of the American Society
+of Engineering Education.
+
+6
+00:00:18,210 --> 00:00:21,800
+Dr. Fortenberry is MIT cubed.
+
+7
+00:00:21,800 --> 00:00:25,900
+That is, he has his bachelors, masters,
+and doctorate
+
+8
+00:00:25,900 --> 00:00:30,720
+in mechanical engineering from the
+Massachusetts Institute of Technology.
+
+9
+00:00:30,720 --> 00:00:35,290
+Because of his interest in learning,
+Norman took an unusual career path.
+
+10
+00:00:35,290 --> 00:00:37,870
+After teaching his first engineering
+classes,
+
+11
+00:00:37,870 --> 00:00:40,180
+he realized that there was the disconnect.
+
+12
+00:00:40,180 --> 00:00:42,760
+He knew a great deal about his research
+area,
+
+13
+00:00:42,760 --> 00:00:46,400
+but he didn't know about how to teach
+effectively.
+
+14
+00:00:46,400 --> 00:00:49,840
+The reality is, that most new professors
+arrive at
+
+15
+00:00:49,840 --> 00:00:53,624
+their universities without any training in
+how to teach effectively.
+
+16
+00:00:53,624 --> 00:00:57,520
+Dr. Fortenberry wanted to do something
+about this problem.
+
+17
+00:00:57,520 --> 00:01:00,370
+His work at the National Science
+Foundation and the National
+
+18
+00:01:00,370 --> 00:01:05,650
+Consortium for Graduate Degrees for
+Minorities in Engineering and Science have
+
+19
+00:01:05,650 --> 00:01:10,000
+helped create a whole network of support
+for faculty in science,
+
+20
+00:01:10,000 --> 00:01:15,390
+engineering, math, and technology who want
+to help students learn effectively.
+
+21
+00:01:15,390 --> 00:01:18,216
+In this interview, we'll get some
+practical ideas from Dr.
+
+22
+00:01:18,216 --> 00:01:21,930
+Fortenberry on how you can most
+effectively approach your studies.
+
+23
+00:01:21,930 --> 00:01:24,750
+Thank you so much for being here, Dr.
+Fortenberry.
+
+24
+00:01:24,750 --> 00:01:26,930
+I'm just so impressed.
+
+25
+00:01:26,930 --> 00:01:28,210
+I have to ask you.
+
+26
+00:01:28,210 --> 00:01:29,350
+Here you are.
+
+27
+00:01:29,350 --> 00:01:31,720
+You landed at MIT, which is one of the
+
+28
+00:01:31,720 --> 00:01:37,310
+top educational institutions, at least
+technologically-speaking, in the world.
+
+29
+00:01:37,310 --> 00:01:39,840
+And you successfully climbed your way up
+the
+
+30
+00:01:39,840 --> 00:01:42,860
+ladder all the way through to get your
+PhD.
+
+31
+00:01:42,860 --> 00:01:46,680
+Let's cut past the generalities and get to
+specifics.
+
+32
+00:01:46,680 --> 00:01:51,220
+What were some of the most, most
+worthwhile tricks and approaches
+
+33
+00:01:51,220 --> 00:01:55,920
+that you used to help you study and learn
+most effectively?
+
+34
+00:01:55,920 --> 00:01:58,850
+>> Well, MIT is, is a very good
+institution and not just technologically.
+
+35
+00:01:58,850 --> 00:02:00,465
+For example, it has one of the
+
+36
+00:02:00,465 --> 00:02:03,183
+top political science departments in the
+world.
+
+37
+00:02:03,183 --> 00:02:06,953
+But, that said, the techniques that, that
+I pursued, the first and foremost
+
+38
+00:02:06,953 --> 00:02:10,670
+was to recognize that what worked in high
+school will not work in college.
+
+39
+00:02:10,670 --> 00:02:13,797
+In high school, you're taught to, well
+actually, most of Pre-K,
+
+40
+00:02:13,797 --> 00:02:17,010
+you're taught you're to do your own work,
+study alone, etc.
+
+41
+00:02:17,010 --> 00:02:18,390
+That is deadly.
+
+42
+00:02:18,390 --> 00:02:20,730
+In college, at least in engineering
+schools, the
+
+43
+00:02:20,730 --> 00:02:23,090
+expectation is that you're part of a
+group.
+
+44
+00:02:23,090 --> 00:02:25,110
+The expectation is that there are course
+notes
+
+45
+00:02:25,110 --> 00:02:27,600
+and course bibles that are all over
+campus.
+
+46
+00:02:27,600 --> 00:02:30,720
+There's an expectation that you have
+access to resources that
+
+47
+00:02:30,720 --> 00:02:33,530
+if you don't have access to, you're in
+deep trouble.
+
+48
+00:02:33,530 --> 00:02:37,340
+So you have to make sure that you live up
+to that expectation by
+
+49
+00:02:37,340 --> 00:02:39,030
+making the connections to the people who
+
+50
+00:02:39,030 --> 00:02:41,370
+have the resources that you need to
+succeed.
+
+51
+00:02:41,370 --> 00:02:44,410
+The key lesson in, in collegiate study, at
+least
+
+52
+00:02:44,410 --> 00:02:46,940
+in engineering school, is you are part of
+a team.
+
+53
+00:02:46,940 --> 00:02:49,120
+And if you don't have a team, you find a
+team.
+
+54
+00:02:49,120 --> 00:02:51,230
+If you are a team, you maximize the team.
+
+55
+00:02:51,230 --> 00:02:52,710
+But you have to be part of the group.
+
+56
+00:02:54,160 --> 00:02:56,120
+Engineering is a team sport.
+
+57
+00:02:56,120 --> 00:02:57,680
+You know, all the, all the stereotypes
+
+58
+00:02:57,680 --> 00:03:00,300
+are about the lone engineer, the lone
+programmer.
+
+59
+00:03:00,300 --> 00:03:01,550
+But it's a team sport.
+
+60
+00:03:01,550 --> 00:03:04,960
+And you have to find your team as quickly
+as possible and make sure
+
+61
+00:03:04,960 --> 00:03:08,770
+that the members of that team are very
+serious about their studies as well.
+
+62
+00:03:10,030 --> 00:03:10,530
+>> Okay.
+
+63
+00:03:11,590 --> 00:03:16,560
+Your competition at MIT included some of
+the top students in the world.
+
+64
+00:03:16,560 --> 00:03:20,800
+How did your, you approach your studies so
+that you could
+
+65
+00:03:20,800 --> 00:03:24,290
+find things in a way to keep yourself from
+being intimidated.
+
+66
+00:03:24,290 --> 00:03:25,430
+>> I was intimidated.
+
+67
+00:03:25,430 --> 00:03:26,769
+I was extremely intimidated.
+
+68
+00:03:28,160 --> 00:03:32,335
+What it took was reminding myself and
+having
+
+69
+00:03:32,335 --> 00:03:35,840
+others remind me, my peers, some of the
+
+70
+00:03:35,840 --> 00:03:39,790
+administrators, to remind me that I didn't
+suddenly
+
+71
+00:03:39,790 --> 00:03:42,810
+become less smart once I got to MIT.
+
+72
+00:03:42,810 --> 00:03:46,900
+There were some extremely bright people,
+but I was one of those bright people.
+
+73
+00:03:46,900 --> 00:03:51,596
+And that I needed to build a community of
+support around me.
+
+74
+00:03:51,596 --> 00:03:52,900
+I gave support.
+
+75
+00:03:52,900 --> 00:03:53,820
+I received support.
+
+76
+00:03:55,070 --> 00:03:57,640
+So yes, you are entirely intimidated.
+
+77
+00:03:57,640 --> 00:04:00,060
+At least I was, and people I knew were.
+
+78
+00:04:00,060 --> 00:04:03,970
+But we knew that if we worked together as
+a team, we would make it through.
+
+79
+00:04:03,970 --> 00:04:09,540
+And so, that was they key was to remember
+the objective is to learn the material.
+
+80
+00:04:09,540 --> 00:04:11,450
+The objective is to finish the class.
+
+81
+00:04:11,450 --> 00:04:15,060
+Even in grad school, the objective is to
+get the degree.
+
+82
+00:04:15,060 --> 00:04:17,570
+And you keep your eye focused on the
+prize,
+
+83
+00:04:17,570 --> 00:04:19,610
+and you fight it out, and you get through.
+
+84
+00:04:22,280 --> 00:04:26,315
+>> Early on in your college career, you
+took a more advanced calculus course-
+
+85
+00:04:26,315 --> 00:04:26,450
+>> Yes.
+
+86
+00:04:26,450 --> 00:04:30,190
+>> That most people don't usually take, at
+least at that stage.
+
+87
+00:04:30,190 --> 00:04:32,470
+I understand this set you back in your
+studies.
+
+88
+00:04:32,470 --> 00:04:33,060
+>> Yes it did.
+
+89
+00:04:33,060 --> 00:04:36,530
+>> How could you have avoided this
+scenario, and how did
+
+90
+00:04:36,530 --> 00:04:41,720
+you keep going in the face of facing
+failure and, and hardship?
+
+91
+00:04:43,550 --> 00:04:45,350
+>> Well the, the way to avoid the problem
+is
+
+92
+00:04:45,350 --> 00:04:48,810
+to, is to, so this is all about balancing
+ego.
+
+93
+00:04:49,888 --> 00:04:52,811
+I should have done what the overwhelming
+majority
+
+94
+00:04:52,811 --> 00:04:55,386
+of students did, which was take the
+regular
+
+95
+00:04:55,386 --> 00:04:58,031
+track calculus and not take the Calculus
+with
+
+96
+00:04:58,031 --> 00:05:01,457
+Applications, which everybody said was the
+hard track.
+
+97
+00:05:01,457 --> 00:05:03,333
+But I said, but it has application, so if
+I'm
+
+98
+00:05:03,333 --> 00:05:05,367
+going to be an engineer that makes sense
+for me to do.
+
+99
+00:05:05,367 --> 00:05:09,230
+There are times when there's wisdom in the
+wisdom of the crowd.
+
+100
+00:05:09,230 --> 00:05:12,500
+There are times when being lemming is not
+the brightest thing in the world to do.
+
+101
+00:05:12,500 --> 00:05:14,340
+The challenge is figuring out which is
+which.
+
+102
+00:05:16,880 --> 00:05:20,650
+But I think I could have informed my
+decision by not only
+
+103
+00:05:20,650 --> 00:05:25,350
+talking to my peers, but talking to some
+grad students and some
+
+104
+00:05:25,350 --> 00:05:30,410
+administrators, you know, counseling
+deans, et cetera, about that choice and my
+
+105
+00:05:30,410 --> 00:05:32,412
+background in calculus, which was not
+
+106
+00:05:32,412 --> 00:05:34,820
+strong because I hadn't taken calculus
+before.
+
+107
+00:05:36,840 --> 00:05:38,590
+I was handed an AP book and that was,
+
+108
+00:05:38,590 --> 00:05:42,480
+that was my calculus class senior year in
+Louisiana.
+
+109
+00:05:43,990 --> 00:05:47,970
+so, so the, the thing is to recognize when
+one is making
+
+110
+00:05:47,970 --> 00:05:50,920
+a reasonable choice and when one is not
+making a reasonable choice.
+
+111
+00:05:50,920 --> 00:05:53,100
+Now, how did I persist?
+
+112
+00:05:53,100 --> 00:05:57,598
+I buckled down and studied very hard,
+again with the study groups.
+
+113
+00:05:57,598 --> 00:06:01,950
+And I spent a lot of extra time going over
+material,
+
+114
+00:06:01,950 --> 00:06:05,370
+two and three different ways to make sure
+that I understood it.
+
+115
+00:06:05,370 --> 00:06:12,650
+>> Okay, so what do you do to help prompt,
+sort of, what we call
+
+116
+00:06:12,650 --> 00:06:16,000
+diffuse mode or neural resting states, the
+fresh
+
+117
+00:06:16,000 --> 00:06:18,860
+perspectives you get from those kinds of
+states.
+
+118
+00:06:18,860 --> 00:06:23,900
+In your, your research, in your work, how
+do you, how do you prompt those?
+
+119
+00:06:23,900 --> 00:06:26,474
+>> Well I think it's very important, the
+point that you make.
+
+120
+00:06:26,474 --> 00:06:28,983
+One of the stories that I tell people is
+that,
+
+121
+00:06:28,983 --> 00:06:32,520
+you know, it's okay to keep your nose to
+the grindstone.
+
+122
+00:06:32,520 --> 00:06:34,560
+There are plenty of people, at that point,
+talking
+
+123
+00:06:34,560 --> 00:06:37,360
+about MIT, plenty of people walking around
+with no noses.
+
+124
+00:06:37,360 --> 00:06:38,270
+But if you keep your nose to the
+
+125
+00:06:38,270 --> 00:06:40,850
+grindstone too long, you begin to cut into
+brain.
+
+126
+00:06:40,850 --> 00:06:43,130
+And since brain is what you're trying to
+use, that's counterproductive.
+
+127
+00:06:43,130 --> 00:06:45,040
+So it is important to take a break.
+
+128
+00:06:46,284 --> 00:06:52,520
+My breaks involve total mental turn-off.
+
+129
+00:06:52,520 --> 00:06:56,730
+I wa, I read cartoons in the, in the
+newspaper or watch cartoons on television.
+
+130
+00:06:58,174 --> 00:07:03,250
+I watch some of the, now, I watch some of
+the silliest, most inane,
+
+131
+00:07:03,250 --> 00:07:09,540
+television shows, as a form, without
+naming any names, as a form of relaxation.
+
+132
+00:07:09,540 --> 00:07:14,000
+That allows me to turn off my conscious
+brain, your unconscious work.
+
+133
+00:07:14,000 --> 00:07:15,570
+It's a lot like taking a nap.
+
+134
+00:07:15,570 --> 00:07:20,100
+You know, there's so many things coming at
+you and pushing on you, that you have to
+
+135
+00:07:20,100 --> 00:07:22,790
+redirect your focus in order for your
+brain to
+
+136
+00:07:22,790 --> 00:07:24,520
+work on background and come up with the
+answers.
+
+137
+00:07:24,520 --> 00:07:25,897
+So, so, I do things.
+
+138
+00:07:25,897 --> 00:07:27,321
+Some people exercise.
+
+139
+00:07:27,321 --> 00:07:28,961
+I used to exercise more.
+
+140
+00:07:28,961 --> 00:07:30,600
+I need to exercise more.
+
+141
+00:07:30,600 --> 00:07:35,130
+But I do things that shut my brain down in
+different ways.
+
+142
+00:07:36,290 --> 00:07:38,800
+>> Well, we share a little, my guilty
+pleasure
+
+143
+00:07:38,800 --> 00:07:41,252
+is, I, I love to read the National
+Enquirer.
+
+144
+00:07:41,252 --> 00:07:42,510
+[LAUGH].
+
+145
+00:07:42,510 --> 00:07:43,530
+>> That would work, too.
+
+146
+00:07:43,530 --> 00:07:47,850
+>> Many of our viewers have brothers and
+sisters
+
+147
+00:07:47,850 --> 00:07:50,390
+and friends who are trying to learn new
+things.
+
+148
+00:07:50,390 --> 00:07:53,650
+So, reflecting back on your own childhood,
+and even your
+
+149
+00:07:53,650 --> 00:07:58,160
+work today, how have other people helped
+you in your learning?
+
+150
+00:07:58,160 --> 00:08:03,240
+And, did, did people sometimes help you,
+perhaps, by not helping you?
+
+151
+00:08:03,240 --> 00:08:05,720
+And, do you have any practical suggestions
+for our
+
+152
+00:08:05,720 --> 00:08:08,170
+viewers, who are trying to learn how to
+learn?
+
+153
+00:08:10,510 --> 00:08:14,652
+>> There's very practical guidance on
+learning how to learn in, in any number
+
+154
+00:08:14,652 --> 00:08:16,853
+of publications and online in, in terms
+
+155
+00:08:16,853 --> 00:08:20,918
+of a, a systematic process for acquiring
+information.
+
+156
+00:08:20,918 --> 00:08:23,985
+Some things I used with my son when he was
+younger, in
+
+157
+00:08:23,985 --> 00:08:27,980
+terms of using as many different modes of
+input as you can.
+
+158
+00:08:27,980 --> 00:08:29,560
+See something.
+
+159
+00:08:29,560 --> 00:08:31,170
+Write it out by hand so that you've
+
+160
+00:08:31,170 --> 00:08:34,390
+got the muscle memory, repeating it back
+to yourself.
+
+161
+00:08:34,390 --> 00:08:36,770
+See it, say it, spell it, whatever.
+
+162
+00:08:38,090 --> 00:08:41,690
+As many input modes, you've got your
+auditory learners, your visual learners.
+
+163
+00:08:41,690 --> 00:08:45,760
+You, you saturate yourself with learning
+modes.
+
+164
+00:08:45,760 --> 00:08:49,870
+That's one of the reasons why people need
+to be careful when you have a
+
+165
+00:08:49,870 --> 00:08:52,070
+faculty member or a teacher to put
+something
+
+166
+00:08:52,070 --> 00:08:55,620
+on, on overheads or, or Powerpoints these
+days.
+
+167
+00:08:55,620 --> 00:08:58,330
+And you just take their overheads and
+don't really study them.
+
+168
+00:08:58,330 --> 00:09:01,970
+The, the mechanical act of writing helps
+you to internalize that material, as
+
+169
+00:09:01,970 --> 00:09:06,120
+well as going back over the notes again,
+helps you to internalize that material.
+
+170
+00:09:06,120 --> 00:09:08,790
+So, multi-mode input is critical for
+learning.
+
+171
+00:09:10,468 --> 00:09:13,320
+again, with the study groups and
+challenging each other, because
+
+172
+00:09:13,320 --> 00:09:16,690
+what you, what you think you know, you
+find out
+
+173
+00:09:16,690 --> 00:09:18,760
+when you try to explain it to somebody
+else, that's
+
+174
+00:09:18,760 --> 00:09:20,970
+why teaching is one of the best ways to
+learn.
+
+175
+00:09:20,970 --> 00:09:25,290
+But even if you don't go full blown to
+tutoring somebody else, just in discussing
+
+176
+00:09:25,290 --> 00:09:29,870
+it with a set of peers and colleagues,
+okay, this is what I think I know.
+
+177
+00:09:29,870 --> 00:09:31,220
+And they challenge you.
+
+178
+00:09:31,220 --> 00:09:34,536
+Okay, well that's not what I thought I
+thought, but let me explain.
+
+179
+00:09:34,536 --> 00:09:37,490
+And they will either, you will either
+validate what you thought,
+
+180
+00:09:37,490 --> 00:09:40,640
+or you will find a, the fallacy in what
+you thought.
+
+181
+00:09:40,640 --> 00:09:41,670
+And they do the same thing.
+
+182
+00:09:41,670 --> 00:09:45,390
+And so you help each other by explaining
+material to each other.
+
+183
+00:09:45,390 --> 00:09:47,045
+If you just write it out, yeah I've got
+it.
+
+184
+00:09:47,045 --> 00:09:49,520
+Well, you may not have it, or you may have
+it wrong.
+
+185
+00:09:49,520 --> 00:09:52,040
+And so you have to take the time to
+
+186
+00:09:52,040 --> 00:09:55,600
+explain it, teach it, whatever, to
+somebody else as a
+
+187
+00:09:55,600 --> 00:09:57,310
+way to make sure that you, in fact, have
+
+188
+00:09:57,310 --> 00:09:59,710
+what you think you have in terms of your
+learning.
+
+189
+00:09:59,710 --> 00:10:02,350
+>> I think active learning like this,
+really
+
+190
+00:10:03,660 --> 00:10:06,790
+grappling with it and using information
+that's within
+
+191
+00:10:06,790 --> 00:10:11,580
+your own mind, that's the best way to know
+you've really got it within your own mind.
+
+192
+00:10:11,580 --> 00:10:12,110
+>> Sure.
+
+193
+00:10:12,110 --> 00:10:14,380
+>> So, you're exactly right.
+
+194
+00:10:16,050 --> 00:10:17,575
+Norman, thank you so much.
+
+195
+00:10:17,575 --> 00:10:27,575
+[BLANK_AUDIO]
+

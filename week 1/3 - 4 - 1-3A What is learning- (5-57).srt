@@ -1,0 +1,447 @@
+1
+00:00:04,880 --> 00:00:06,670
+Welcome to Learning How to Learn.
+
+2
+00:00:06,670 --> 00:00:08,780
+My name is Terry Sejnowsky.
+
+3
+00:00:08,780 --> 00:00:10,390
+Let me introduce you to your brain.
+
+4
+00:00:13,300 --> 00:00:18,560
+First some brain surgery, we take off the
+skull and take out the brain.
+
+5
+00:00:21,410 --> 00:00:25,610
+This brain weights three pounds, but it
+consumes ten times more energy
+
+6
+00:00:25,610 --> 00:00:29,650
+by weight then the rest of the body, a
+very expensive organ.
+
+7
+00:00:29,650 --> 00:00:33,750
+It is the most complex device in the known
+universe.
+
+8
+00:00:33,750 --> 00:00:40,560
+All of your thoughts, your hopes, your
+fears, are in the neurons in this brain.
+
+9
+00:00:41,750 --> 00:00:46,910
+We price our abilities to do chess and
+math but it takes of practice
+
+10
+00:00:46,910 --> 00:00:49,830
+to acquire these skills and digital
+computers
+
+11
+00:00:49,830 --> 00:00:51,430
+are much better at it than we are.
+
+12
+00:00:52,870 --> 00:00:57,260
+It came as a surprise to discover that
+what we do so well and take
+
+13
+00:00:57,260 --> 00:01:03,220
+for granted, like seeing, hearing,
+reaching, running, are
+
+14
+00:01:03,220 --> 00:01:06,260
+all much more complex problems than we
+thought.
+
+15
+00:01:06,260 --> 00:01:10,120
+And way beyond the capability of the
+world's fastest digital computers.
+
+16
+00:01:11,270 --> 00:01:16,810
+What this illustrates is that we are not
+consciously aware of how our brains work.
+
+17
+00:01:16,810 --> 00:01:20,630
+Brains evolved to help us navigate complex
+environments.
+
+18
+00:01:20,630 --> 00:01:24,250
+And most of the heavy lifting is done
+below our level of consciousness.
+
+19
+00:01:25,570 --> 00:01:28,780
+And we don't need to know how it's done in
+order to survive.
+
+20
+00:01:30,110 --> 00:01:32,600
+Psychologists who study the unconscious
+mind have found
+
+21
+00:01:32,600 --> 00:01:37,909
+that influences include thought processes,
+memory, emotions, and motivation.
+
+22
+00:01:39,450 --> 00:01:42,800
+We're only aware of a very small fraction
+of all the activity in
+
+23
+00:01:42,800 --> 00:01:46,850
+the brain, so we need to rely on brain
+imaging techniques to guide us.
+
+24
+00:01:48,240 --> 00:01:50,950
+Here is the activity map of someone's
+brain who was
+
+25
+00:01:50,950 --> 00:01:55,070
+asked to lie still, at rest in a brain
+imaging scanner.
+
+26
+00:01:55,070 --> 00:01:57,450
+On the left is the side view of the brain
+
+27
+00:01:57,450 --> 00:01:59,584
+and on the right is the view from the
+mid-line.
+
+28
+00:02:00,800 --> 00:02:04,750
+The colors indicate brain areas whose
+activities were highly correlated, as
+
+29
+00:02:04,750 --> 00:02:08,800
+shown by the time courses below, color
+coded to the brain areas.
+
+30
+00:02:09,810 --> 00:02:12,380
+The blue areas are highly activity when
+the subject
+
+31
+00:02:12,380 --> 00:02:15,660
+interacts with the world, but turn-off in
+the resting state.
+
+32
+00:02:16,670 --> 00:02:21,550
+The red orange areas are most active in
+the resting state.
+
+33
+00:02:21,550 --> 00:02:24,150
+And are called the default mode network.
+
+34
+00:02:24,150 --> 00:02:30,100
+The default mode network is a leading
+candidate for what we call the focus mode.
+
+35
+00:02:30,100 --> 00:02:32,350
+When you are quietly studying.
+
+36
+00:02:32,350 --> 00:02:34,550
+The diffuse mode, which occurs when you
+are not
+
+37
+00:02:34,550 --> 00:02:40,220
+concentrating, may be, not easy to
+identify anatomically, but
+
+38
+00:02:40,220 --> 00:02:42,530
+it is likely to be a shift in the
+
+39
+00:02:42,530 --> 00:02:46,710
+resting pattern of activity towards a more
+coherent global pattern.
+
+40
+00:02:46,710 --> 00:02:50,090
+Other brightened areas are also more
+active
+
+41
+00:02:50,090 --> 00:02:51,750
+when you are resting, and these areas
+
+42
+00:02:51,750 --> 00:02:53,430
+can be further divided into groups of
+
+43
+00:02:53,430 --> 00:02:56,370
+areas that have common patterns of
+activity.
+
+44
+00:02:56,370 --> 00:02:59,120
+This is a new and intense area of
+research, and it will
+
+45
+00:02:59,120 --> 00:03:03,020
+take time to sort out all the resting
+states, and their functions.
+
+46
+00:03:03,020 --> 00:03:08,670
+There are a million, billion synapses in
+your brain, where memories are stored.
+
+47
+00:03:08,670 --> 00:03:12,880
+The old view of the brain is that once it
+matures, the strengths of synapses can be
+
+48
+00:03:12,880 --> 00:03:16,270
+adjusted by learning, but the pattern of
+cognitivity
+
+49
+00:03:16,270 --> 00:03:18,830
+does not change much unless there is brain
+damage.
+
+50
+00:03:20,010 --> 00:03:22,130
+But now we know that brain connectivity is
+
+51
+00:03:22,130 --> 00:03:25,200
+dynamic and remains so even after it
+matures.
+
+52
+00:03:26,590 --> 00:03:29,050
+With new optical techniques for imaging
+
+53
+00:03:29,050 --> 00:03:31,759
+single connections between neurons called
+synapses,
+
+54
+00:03:32,770 --> 00:03:34,670
+we can see constant turnover with
+
+55
+00:03:34,670 --> 00:03:37,990
+new synapses being formed and others
+disappearing.
+
+56
+00:03:37,990 --> 00:03:39,910
+This raises a puzzle.
+
+57
+00:03:39,910 --> 00:03:44,740
+In the face of so much churn-over, how do
+memories stay stable over so many years?
+
+58
+00:03:44,740 --> 00:03:47,000
+This is a picture of one dendritic branch
+
+59
+00:03:47,000 --> 00:03:50,130
+on a neuron which receives inputs from
+other neurons.
+
+60
+00:03:50,130 --> 00:03:53,740
+The synapses are the spiny knobs coming
+off the dendrite.
+
+61
+00:03:53,740 --> 00:03:57,140
+On the top the dendrite was imaged before
+learning.
+
+62
+00:03:57,140 --> 00:04:00,900
+The same dendrite is shown below after
+learning, and after sleep.
+
+63
+00:04:00,900 --> 00:04:04,270
+Multiple synapses that are newly formed
+together on the
+
+64
+00:04:04,270 --> 00:04:07,370
+same branch are indicated by the white
+arrow heads.
+
+65
+00:04:07,370 --> 00:04:10,620
+You are looking down into the brain of a
+live animal.
+
+66
+00:04:10,620 --> 00:04:13,510
+This is really a fantastic new technique.
+
+67
+00:04:15,080 --> 00:04:18,330
+Synapses are less than a micron in
+diameter.
+
+68
+00:04:18,330 --> 00:04:21,230
+In comparison a human hair is around 20
+microns in diameter.
+
+69
+00:04:22,340 --> 00:04:26,250
+This new technique allows us to see how
+learning changes the structure of
+
+70
+00:04:26,250 --> 00:04:29,910
+the brain with a resolution that is near
+the limit of light microscopy.
+
+71
+00:04:32,010 --> 00:04:35,550
+This illustrates that, intriguingly, you
+are not the same person
+
+72
+00:04:35,550 --> 00:04:38,680
+you were after a night's sleep or even a
+nap.
+
+73
+00:04:38,680 --> 00:04:42,920
+It is if you went to bed with one brain
+and woke up with an upgrade.
+
+74
+00:04:42,920 --> 00:04:46,400
+This is a better deal that you can get
+from Microsoft.
+
+75
+00:04:46,400 --> 00:04:49,746
+Shakespeare, the great English poet,
+already knew this.
+
+76
+00:04:49,746 --> 00:04:54,912
+Here is Macbeth lamenting his insomnia.
+
+77
+00:04:54,912 --> 00:04:57,317
+"Sleep that knits up the ravell'd sleeve of
+care.
+
+78
+00:04:57,317 --> 00:04:59,791
+"The death of each day's life, sore
+labour's bath.
+
+79
+00:04:59,791 --> 00:05:06,476
+"Balm of hurt minds, great nature's second
+course.
+
+80
+00:05:06,476 --> 00:05:09,998
+"Chief nourisher in life's feast."
+
+81
+00:05:09,998 --> 00:05:13,275
+Here, Shakespeare is making an analogy
+between knitted
+
+82
+00:05:13,275 --> 00:05:16,076
+clothes and sleep that knits up the loose
+threads
+
+83
+00:05:16,076 --> 00:05:18,673
+of experience and concerns during the day
+and
+
+84
+00:05:18,673 --> 00:05:22,330
+weaves them into the tapestry of your life
+story.
+
+85
+00:05:22,330 --> 00:05:26,754
+You will learn, in this first week, how to
+take advantage of your unconscious
+
+86
+00:05:26,754 --> 00:05:31,190
+mind, and also sleep to make it easier to
+learn new things and solve problems.
+
+87
+00:05:32,310 --> 00:05:36,230
+During the lectures you may ask yourself,
+how does the brain do this?
+
+88
+00:05:36,230 --> 00:05:41,450
+A good place to find out more about brain
+is the website brainfacts.org.
+
+89
+00:05:41,450 --> 00:05:43,172
+Brainfacts, one word, .org.
+
+90
+00:05:43,172 --> 00:05:45,550
+You will find a wealth of interesting
+things about
+
+91
+00:05:45,550 --> 00:05:49,180
+brains and behavior, and in particular
+about learning and memory.
+
+92
+00:05:49,180 --> 00:05:50,640
+I'm Terry Sejnowski.
+
+93
+00:05:50,640 --> 00:05:52,222
+Happy learning until we meet again.
+
+94
+00:05:52,222 --> 00:05:57,979
+[BLANK_AUDIO]
