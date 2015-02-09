@@ -1,0 +1,596 @@
+1
+00:00:00,025 --> 00:00:09,516
+[SOUND].
+
+2
+00:00:09,516 --> 00:00:11,795
+In this video, we're going to talk about
+
+3
+00:00:11,795 --> 00:00:14,930
+some essential ideas in getting your
+learning on track.
+
+4
+00:00:14,930 --> 00:00:19,655
+The importance of recall, illusions of
+competence in learning.
+
+5
+00:00:19,655 --> 00:00:24,350
+Mini-testing and the value of making
+mistakes.
+
+6
+00:00:24,350 --> 00:00:27,860
+One of the most common approaches for
+trying to learn material
+
+7
+00:00:27,860 --> 00:00:31,270
+from a book or from notes is simply to
+reread it.
+
+8
+00:00:31,270 --> 00:00:34,750
+But psychologist, Jeffrey Karpicke, has
+shown that this approach
+
+9
+00:00:34,750 --> 00:00:39,250
+is actually much less productive than
+another, very simple, technique.
+
+10
+00:00:39,250 --> 00:00:40,740
+Recall.
+
+11
+00:00:40,740 --> 00:00:44,710
+After you've read the material, simply
+look away, and see
+
+12
+00:00:44,710 --> 00:00:47,380
+what you can recall from the material
+you've just read.
+
+13
+00:00:48,785 --> 00:00:51,290
+Karpicke's research, published in the
+Journal
+
+14
+00:00:51,290 --> 00:00:55,610
+Science, provided solid evidence along
+these lines.
+
+15
+00:00:55,610 --> 00:00:59,290
+Students studied a scientific text and
+then practiced it,
+
+16
+00:00:59,290 --> 00:01:02,348
+by recalling as much of the information as
+they could.
+
+17
+00:01:02,348 --> 00:01:06,320
+Then they re-studied the text and recalled
+it again.
+
+18
+00:01:06,320 --> 00:01:10,460
+That is, they tried to remember the key
+ideas, once more.
+
+19
+00:01:10,460 --> 00:01:13,540
+The results, in the same amount of time,
+
+20
+00:01:13,540 --> 00:01:18,090
+by simply practising and recalling the
+material students
+
+21
+00:01:18,090 --> 00:01:20,910
+learned far more and at a much deeper
+
+22
+00:01:20,910 --> 00:01:24,290
+level than they did using any other
+approach.
+
+23
+00:01:24,290 --> 00:01:28,090
+Including simply rereading the text a
+number of times.
+
+24
+00:01:28,090 --> 00:01:31,510
+Or drawing concept maps that supposedly
+enrich
+
+25
+00:01:31,510 --> 00:01:35,070
+the relationships in the materials under
+study.
+
+26
+00:01:35,070 --> 00:01:38,170
+This improved learning comes whether
+students take
+
+27
+00:01:38,170 --> 00:01:42,740
+a formal test, or just informally test
+themselves.
+
+28
+00:01:42,740 --> 00:01:45,130
+This gives an important reminder.
+
+29
+00:01:45,130 --> 00:01:50,300
+When we retrieve knowledge, we're not just
+being mindless robots.
+
+30
+00:01:50,300 --> 00:01:55,090
+The retrieval process itself enhances deep
+learning,
+
+31
+00:01:55,090 --> 00:01:58,200
+and helps us to begin forming chunks.
+
+32
+00:01:58,200 --> 00:02:01,900
+It's almost as if the recall process helps
+build in
+
+33
+00:02:01,900 --> 00:02:05,530
+little neural hooks, that we can hang our
+thinking on.
+
+34
+00:02:06,720 --> 00:02:11,980
+Even more of a surprise to researchers,
+was that the students themselves predicted
+
+35
+00:02:11,980 --> 00:02:17,270
+that simply reading and recalling the
+materials, wasn't the best way to learn.
+
+36
+00:02:17,270 --> 00:02:21,210
+They thought, concept mapping, drawing
+diagrams that show
+
+37
+00:02:21,210 --> 00:02:25,270
+the relationship between the concepts
+would be the best.
+
+38
+00:02:25,270 --> 00:02:29,940
+But if you're trying to build connections
+between chunks, before the
+
+39
+00:02:29,940 --> 00:02:34,410
+basic chunks are embedded in the brain, it
+doesn't work as well.
+
+40
+00:02:34,410 --> 00:02:38,070
+It's like trying to learn advanced
+strategy in chess, before
+
+41
+00:02:38,070 --> 00:02:41,900
+you even understand the basic concepts of
+how the pieces move.
+
+42
+00:02:43,110 --> 00:02:48,820
+Using recall, mental retrieval of the key
+ideas, rather than
+
+43
+00:02:48,820 --> 00:02:54,450
+passive rereading, will make your study
+time more focused and effective.
+
+44
+00:02:54,450 --> 00:02:59,750
+The only time rereading text seems to be
+effective, is if you let time pass
+
+45
+00:02:59,750 --> 00:03:04,780
+between the rereading, so that it becomes
+more of an exercise in spaced repetition.
+
+46
+00:03:05,980 --> 00:03:11,010
+One way to think about this type of
+learning and recall, is shown right here.
+
+47
+00:03:11,010 --> 00:03:15,440
+As we mentioned earlier, there are four or so
+slots, in working memory.
+
+48
+00:03:15,440 --> 00:03:19,640
+When you're first learning how to
+understand a concept, or technique to
+
+49
+00:03:19,640 --> 00:03:24,400
+solve a problem, your entire working
+memory is involved in the process.
+
+50
+00:03:24,400 --> 00:03:27,520
+As shown by this sort of, mad tangle
+
+51
+00:03:27,520 --> 00:03:31,220
+of connections between the four slots of
+working memory.
+
+52
+00:03:31,220 --> 00:03:34,040
+As you begin to chunk the concept, you
+will
+
+53
+00:03:34,040 --> 00:03:38,530
+feel it connecting more easily and
+smoothly in your mind.
+
+54
+00:03:38,530 --> 00:03:43,750
+Once the concept is chunked, it takes up
+only one slot in working memory.
+
+55
+00:03:43,750 --> 00:03:48,380
+It simultaneously becomes one smooth
+strand that's easy
+
+56
+00:03:48,380 --> 00:03:52,050
+to follow, and to use to make new
+connections.
+
+57
+00:03:52,050 --> 00:03:55,710
+The rest of your working memory is left
+clear.
+
+58
+00:03:55,710 --> 00:04:00,610
+That dangling strand of chunked material
+has, in some sense,
+
+59
+00:04:00,610 --> 00:04:05,290
+increased the amount of information
+available to your working memory.
+
+60
+00:04:05,290 --> 00:04:08,260
+It's as if the slot in working memory is a
+
+61
+00:04:08,260 --> 00:04:12,599
+hyperlink that's been connected to a great
+big web page.
+
+62
+00:04:13,890 --> 00:04:18,050
+Now, you understand, why it is key that
+you are
+
+63
+00:04:18,050 --> 00:04:21,630
+the one doing the problem solving or
+mastering the concept.
+
+64
+00:04:21,630 --> 00:04:27,110
+Not whoever wrote the solution manual, or
+book, on whatever subject you're studying.
+
+65
+00:04:27,110 --> 00:04:30,840
+If you just look at the solution, for
+example, then tell yourself.
+
+66
+00:04:30,840 --> 00:04:33,720
+Oh yeah, I see why they did that.
+
+67
+00:04:33,720 --> 00:04:36,770
+Then the solution is not really yours.
+
+68
+00:04:36,770 --> 00:04:39,030
+You've done almost nothing to knit those
+
+69
+00:04:39,030 --> 00:04:43,140
+concepts into your own underlying neural
+circuitry.
+
+70
+00:04:43,140 --> 00:04:46,750
+Merely glancing at a solution and thinking
+you truly know it
+
+71
+00:04:46,750 --> 00:04:52,100
+yourself is one of the most common
+illusions of competence in learning.
+
+72
+00:04:52,100 --> 00:04:57,570
+You must have the information persisting
+in your memory if you're to
+
+73
+00:04:57,570 --> 00:05:03,990
+master the material well enough to do well
+on tests and to think creatively with it.
+
+74
+00:05:03,990 --> 00:05:06,510
+In a related thing, you may be surprised
+to
+
+75
+00:05:06,510 --> 00:05:11,480
+learn that highlighting and underlining
+must be done very carefully.
+
+76
+00:05:11,480 --> 00:05:16,370
+Otherwise it can not only be ineffective,
+but also misleading.
+
+77
+00:05:16,370 --> 00:05:20,230
+It's as if, making lots of motions with
+your hand can
+
+78
+00:05:20,230 --> 00:05:25,110
+fool you into thinking you've placed the
+concept in your brain.
+
+79
+00:05:25,110 --> 00:05:30,170
+If you do mark up the text, try to look
+for main ideas before making any marks.
+
+80
+00:05:30,170 --> 00:05:34,330
+And try to keep your underlining or
+highlighting to a minimum.
+
+81
+00:05:34,330 --> 00:05:37,330
+One sentence or less per paragraph.
+
+82
+00:05:37,330 --> 00:05:39,730
+On the other hand, words or notes in a
+
+83
+00:05:39,730 --> 00:05:43,740
+margin that synthesize key concepts are a
+very good idea.
+
+84
+00:05:45,180 --> 00:05:49,190
+Jeff Karpicke, the same researcher who's
+done such important work
+
+85
+00:05:49,190 --> 00:05:54,160
+related to recall, has also done research
+on a related topic.
+
+86
+00:05:54,160 --> 00:05:57,510
+Illusions of competence in learning.
+
+87
+00:05:57,510 --> 00:06:00,410
+The reason students like to keep rereading
+their notes
+
+88
+00:06:00,410 --> 00:06:03,970
+or a textbook, is that when they have the
+book
+
+89
+00:06:03,970 --> 00:06:07,250
+or Google open right in front of them, it
+provides
+
+90
+00:06:07,250 --> 00:06:11,710
+the illusion that the material is also in
+their brains.
+
+91
+00:06:11,710 --> 00:06:16,075
+But it's not, because it can be easier to
+look at the book instead of
+
+92
+00:06:16,075 --> 00:06:19,906
+recalling, students persist in their
+illusions studying
+
+93
+00:06:19,906 --> 00:06:22,600
+in a way that just isn't very effective.
+
+94
+00:06:23,610 --> 00:06:27,350
+This is a reminder that just wanting to
+learn the material, and
+
+95
+00:06:27,350 --> 00:06:32,960
+spending a lot of time with it, doesn't
+guarantee you'll actually learn it.
+
+96
+00:06:32,960 --> 00:06:36,260
+A super helpful way to make sure you're
+learning and not fooling
+
+97
+00:06:36,260 --> 00:06:38,780
+yourself with illusions of competence, is
+
+98
+00:06:38,780 --> 00:06:41,480
+to test yourself on whatever you're
+learning.
+
+99
+00:06:42,600 --> 00:06:45,790
+In some sense, that's what recall is
+actually doing.
+
+100
+00:06:45,790 --> 00:06:50,910
+Allowing you to see whether or not you
+really grasp an idea.
+
+101
+00:06:50,910 --> 00:06:54,720
+If you make a mistake in what you are
+doing, it's actually a very good thing.
+
+102
+00:06:54,720 --> 00:06:58,250
+You want to try not to repeat your
+mistakes, of course, but mistakes are
+
+103
+00:06:58,250 --> 00:07:03,980
+very valuable to make in your little self
+tests before high stakes real tests.
+
+104
+00:07:03,980 --> 00:07:09,130
+Because they allow you to make repairs and
+you're thinking flaws bit by bit
+
+105
+00:07:09,130 --> 00:07:13,500
+mistakes help correct your thinking, so
+that you can learn better and do better.
+
+106
+00:07:14,950 --> 00:07:18,980
+As you know now recall is a powerful tool.
+
+107
+00:07:18,980 --> 00:07:24,090
+But here's another tip, recalling material
+when you are outside your usual
+
+108
+00:07:24,090 --> 00:07:28,866
+place of study can also help you
+strengthen your grasp of the material.
+
+109
+00:07:28,866 --> 00:07:31,430
+You don't realize it, but when you are
+learning
+
+110
+00:07:31,430 --> 00:07:35,670
+something new you can often take in
+subliminal cues
+
+111
+00:07:35,670 --> 00:07:38,010
+for the room and the space around you
+
+112
+00:07:38,010 --> 00:07:41,210
+at the time you were originally learning
+the material.
+
+113
+00:07:41,210 --> 00:07:44,560
+This can throw you off when you take tests
+because you often take
+
+114
+00:07:44,560 --> 00:07:48,410
+tests in a room that's different from the
+room you were learning in.
+
+115
+00:07:48,410 --> 00:07:53,450
+By recalling and thinking about the
+material when you are in various physical
+
+116
+00:07:53,450 --> 00:07:59,210
+environment, you become independent of the
+cues from any one given location.
+
+117
+00:07:59,210 --> 00:08:01,670
+That helps you avoid the problem of the
+test
+
+118
+00:08:01,670 --> 00:08:05,970
+room being different from where you
+originally learned the material.
+
+119
+00:08:05,970 --> 00:08:09,652
+I'm Barbara Oakley, thanks for learning
+about learning.
+
+120
+00:08:09,652 --> 00:08:16,417
+[BLANK_AUDIO]
+
+121
+00:08:16,417 --> 00:08:21,625
+Mistakes are very valuable to make in that
+you're little, it, it.
+
+122
+00:08:21,625 --> 00:08:26,660
+[LAUGH].
+
+123
+00:08:26,660 --> 00:08:28,641
+Okay.
+
+124
+00:08:28,641 --> 00:08:30,200
+Go back to the start of this one.

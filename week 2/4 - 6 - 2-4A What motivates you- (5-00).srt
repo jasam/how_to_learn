@@ -1,0 +1,360 @@
+1
+00:00:02,950 --> 00:00:04,530
+Welcome back.
+
+2
+00:00:04,530 --> 00:00:07,950
+It is hard to learn when
+you're not into it.
+
+3
+00:00:07,950 --> 00:00:11,460
+But if it's something you're really
+interested in, learning is easy.
+
+4
+00:00:11,460 --> 00:00:12,020
+Why is that?
+
+5
+00:00:13,920 --> 00:00:17,040
+Most of the neurons in your cortex
+carry information about what
+
+6
+00:00:17,040 --> 00:00:19,059
+is happening around you and
+what you're doing.
+
+7
+00:00:20,110 --> 00:00:24,620
+Your brain also has a set of diffusely
+projecting systems of neuromodulators,
+
+8
+00:00:24,620 --> 00:00:28,790
+that carry information not about
+the content of an experience but
+
+9
+00:00:28,790 --> 00:00:33,940
+it's importance and value to your future,
+neuromodulators are chemicals that
+
+10
+00:00:33,940 --> 00:00:36,410
+influence how a neurons
+responds to other neurons.
+
+11
+00:00:36,410 --> 00:00:38,780
+And today we will discuss three of them.
+
+12
+00:00:38,780 --> 00:00:42,280
+Acetylcholine, dopamine and serotonin.
+
+13
+00:00:44,310 --> 00:00:48,650
+Acetylcholine neurons form
+neuromodulatory connections to
+
+14
+00:00:48,650 --> 00:00:50,670
+the cortex that
+are particularly important for
+
+15
+00:00:50,670 --> 00:00:53,690
+focused learning,
+when you are paying close attention.
+
+16
+00:00:55,190 --> 00:00:58,690
+These acetylcholine
+neurons project widely and
+
+17
+00:00:58,690 --> 00:01:01,810
+activate circuits that
+control synaptic plasticity.
+
+18
+00:01:01,810 --> 00:01:04,100
+Leading to new long term memory.
+
+19
+00:01:04,100 --> 00:01:07,960
+Neuromodulators also have a profound
+impact on your unconscious mind.
+
+20
+00:01:07,960 --> 00:01:14,280
+One of the great brain discoveries
+in my lifetime has been that our
+
+21
+00:01:14,280 --> 00:01:20,450
+motivation is controlled by a particular
+chemical substance called Dopamine.
+
+22
+00:01:20,450 --> 00:01:24,660
+Which is found in a small set of neurons
+in our brain stem shown here in orange.
+
+23
+00:01:25,940 --> 00:01:30,690
+These dopamine neurons are part of a large
+brain system that controls reward learning
+
+24
+00:01:32,340 --> 00:01:36,620
+and in particular in the basal ganglia
+which is located in the green region above
+
+25
+00:01:36,620 --> 00:01:39,470
+the dopamine neurons and
+below the cortex at the top of the brain.
+
+26
+00:01:40,600 --> 00:01:45,270
+Dopamine is released from these neurons,
+when we receive an unexpected reward.
+
+27
+00:01:46,900 --> 00:01:52,120
+Dopamine signals project widely and
+have a very powerful effect on learning.
+
+28
+00:01:52,120 --> 00:01:55,670
+And this is something that
+also affects decision making.
+
+29
+00:01:55,670 --> 00:01:57,424
+And even the value of sensory inputs.
+
+30
+00:01:58,840 --> 00:02:02,000
+Dopamine is in the business of
+predicting future rewards and
+
+31
+00:02:02,000 --> 00:02:04,040
+not just the immediate reward.
+
+32
+00:02:05,500 --> 00:02:09,150
+This can motivate you to do something
+that may not be rewarding right now but
+
+33
+00:02:09,150 --> 00:02:11,580
+will lead to a much better
+reward in the future.
+
+34
+00:02:12,990 --> 00:02:16,480
+Addictive drugs artificially
+increase dopamine activity and
+
+35
+00:02:16,480 --> 00:02:19,839
+fool your brain into thinking that
+something wonderful has just happened.
+
+36
+00:02:20,840 --> 00:02:23,970
+In fact just the opposite
+has just happened.
+
+37
+00:02:23,970 --> 00:02:28,150
+This leads to craving and dependence,
+which can hijack your free will and
+
+38
+00:02:28,150 --> 00:02:30,200
+can motivate actions
+that are harmful to you.
+
+39
+00:02:31,980 --> 00:02:35,290
+Loss of Dopamine neurons leads
+to a lack of motivation.
+
+40
+00:02:35,290 --> 00:02:37,310
+And something called anhedonia,
+
+41
+00:02:37,310 --> 00:02:41,019
+which is a loss of interest in
+things that once gave you pleasure.
+
+42
+00:02:42,030 --> 00:02:45,190
+Severe loss of Dopamine
+neurons causes resting tremor,
+
+43
+00:02:46,280 --> 00:02:51,150
+slowness, rigidity,
+this is called Parkinson's disease.
+
+44
+00:02:51,150 --> 00:02:57,250
+Ultimately it leads to catatonia,
+a complete lack of any movement.
+
+45
+00:02:57,250 --> 00:03:00,460
+Dopamine neurons are part of
+the unconscience part of your brain.
+
+46
+00:03:00,460 --> 00:03:02,690
+That you learned about in the first week.
+
+47
+00:03:02,690 --> 00:03:05,580
+When you promise to treat
+yourself something after a study
+
+48
+00:03:05,580 --> 00:03:08,560
+section you are tapping
+into your dopamine system.
+
+49
+00:03:09,650 --> 00:03:13,930
+Serotonin is a third diffuse neuromodulatory system
+
+50
+00:03:13,930 --> 00:03:16,980
+that strongly affects your social life.
+
+51
+00:03:16,980 --> 00:03:21,380
+In monkey troops the alpha male has the
+highest level of serotonin activity and
+
+52
+00:03:21,380 --> 00:03:25,060
+the lowest ranking male
+has the lowest levels.
+
+53
+00:03:25,060 --> 00:03:26,680
+Prozac, which is prescribed for
+
+54
+00:03:26,680 --> 00:03:30,100
+clinical depression,
+raises the level of Serotonin activity.
+
+55
+00:03:32,100 --> 00:03:36,830
+The level of Serotonin is also closely
+linked to risk taking behavior.
+
+56
+00:03:36,830 --> 00:03:39,880
+With higher risk in
+lower Serotonin monkeys.
+
+57
+00:03:41,670 --> 00:03:42,840
+Inmates in jail for
+
+58
+00:03:42,840 --> 00:03:48,030
+violent crimes have some of the lowest
+levels of serotonin activity in society.
+
+59
+00:03:49,770 --> 00:03:54,400
+Finally your emotions strongly affect
+learning as you are well aware.
+
+60
+00:03:54,400 --> 00:03:57,460
+Emotions were once thought to
+be separate from cognition but
+
+61
+00:03:57,460 --> 00:04:01,420
+recent research has shown that emotions
+are intertwined with perception and
+
+62
+00:04:01,420 --> 00:04:03,990
+attention and
+interact with learning and memory.
+
+63
+00:04:05,370 --> 00:04:09,910
+The amygdala an almond shaped structure
+shown here, nestled down at the base of
+
+64
+00:04:09,910 --> 00:04:13,950
+the brain is one of the major
+centers where cognition and
+
+65
+00:04:13,950 --> 00:04:16,000
+emotion are effectively integrated.
+
+66
+00:04:17,410 --> 00:04:21,430
+The amygdala is part of the limbic system
+which together with hippocampus is
+
+67
+00:04:21,430 --> 00:04:23,890
+involved in processing memory and
+
+68
+00:04:23,890 --> 00:04:27,690
+decision making as well as
+regulating emotional reactions.
+
+69
+00:04:27,690 --> 00:04:31,970
+You will want to keep your amygdala
+happy to be an effective learner.
+
+70
+00:04:31,970 --> 00:04:36,720
+The emotions and your neuromodulatory systems are slower than perception and
+
+71
+00:04:36,720 --> 00:04:40,050
+action but are no less important for
+successful learning.
+
+72
+00:04:41,260 --> 00:04:44,290
+If you want to learn more about
+Acetylcholine, Dopamine, and
+
+73
+00:04:44,290 --> 00:04:48,060
+Serotonin, look them on brainfacts.org.
+
+74
+00:04:48,060 --> 00:04:51,690
+A website that is filled with
+valuable facts about your brain.
+
+75
+00:04:51,690 --> 00:04:53,300
+I'm Terry Sejnowski.
+
+76
+00:04:53,300 --> 00:04:54,970
+Happy learning, until we meet again.

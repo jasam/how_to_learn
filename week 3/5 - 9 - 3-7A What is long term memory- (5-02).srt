@@ -1,0 +1,350 @@
+1
+00:00:04,220 --> 00:00:05,830
+Welcome back to Learning How to Learn.
+
+2
+00:00:05,830 --> 00:00:10,670
+What would it be like if you couldn't
+learn new things, you would not
+
+3
+00:00:10,670 --> 00:00:13,850
+be able to remember new people you met,
+or remember what you were told?
+
+4
+00:00:14,960 --> 00:00:17,820
+This actually happened to a famous
+patient in the annals of memory
+
+5
+00:00:17,820 --> 00:00:20,379
+research whose initials were HM.
+
+6
+00:00:21,700 --> 00:00:24,270
+At the age of 27, HM had an operation for
+
+7
+00:00:24,270 --> 00:00:28,160
+epilepsy that took out his hippocampus
+on both sides of his brain.
+
+8
+00:00:29,300 --> 00:00:34,040
+The hippocampus has a shape of a seahorse
+and is named from the Greek hippos,
+
+9
+00:00:34,040 --> 00:00:36,840
+meaning horse and kampos,
+meaning sea monster.
+
+10
+00:00:38,200 --> 00:00:39,680
+The operation was a success.
+
+11
+00:00:39,680 --> 00:00:43,080
+The epilepsy was cured but
+the price was steep.
+
+12
+00:00:43,080 --> 00:00:46,500
+HM could no longer remember new things.
+
+13
+00:00:46,500 --> 00:00:49,110
+He had become profoundly amnesic.
+
+14
+00:00:50,280 --> 00:00:54,560
+Curiously, you could have a normal
+conversation with HM, but if you left
+
+15
+00:00:54,560 --> 00:00:58,530
+the room for a few minutes, he could not
+remember you or what you had discussed.
+
+16
+00:00:59,610 --> 00:01:01,480
+In the film Memento,
+
+17
+00:01:01,480 --> 00:01:05,720
+the character played by Guy Pearce had
+this form of amnesia from a concussion.
+
+18
+00:01:07,560 --> 00:01:10,440
+Note that he tattooed his
+body with messages, so
+
+19
+00:01:10,440 --> 00:01:12,280
+that he would not forget
+what he had to do.
+
+20
+00:01:12,280 --> 00:01:15,770
+HM could learn other things,
+
+21
+00:01:15,770 --> 00:01:18,940
+like a new motor skill, but
+he could not remember having learned it.
+
+22
+00:01:20,050 --> 00:01:23,530
+There are multiple memory systems for
+different types of learning.
+
+23
+00:01:23,530 --> 00:01:27,460
+From the studying HM and
+animals with similar operations,
+
+24
+00:01:27,460 --> 00:01:32,250
+we have learned that the hippocampus
+is important part of a brain system for
+
+25
+00:01:32,250 --> 00:01:35,040
+learning and memory of facts and events.
+
+26
+00:01:35,040 --> 00:01:39,830
+Without the hippocampus and its inputs, it
+is not possible to store new memories in
+
+27
+00:01:39,830 --> 00:01:45,530
+the cortex, a process called memory
+consolidation that can take many years.
+
+28
+00:01:47,240 --> 00:01:49,210
+HM could remember things
+from his childhood but
+
+29
+00:01:49,210 --> 00:01:52,820
+he had trouble remembering things that
+had occurred in the years just before his
+
+30
+00:01:52,820 --> 00:01:56,940
+operation, things that had not yet
+become fully consolidated.
+
+31
+00:01:56,940 --> 00:02:00,160
+Something similar happens when
+you have a bad concussion but
+
+32
+00:02:00,160 --> 00:02:03,989
+this usually resolves,
+unlike HM who never improved.
+
+33
+00:02:05,220 --> 00:02:07,440
+Memories are not fixed but
+
+34
+00:02:07,440 --> 00:02:11,880
+living, breathing parts of your brain
+that are changing all of the time.
+
+35
+00:02:13,020 --> 00:02:18,630
+Whenever you recall a memory, it changes,
+a process called, reconsolidation.
+
+36
+00:02:18,630 --> 00:02:22,260
+It is even possible to
+implant false memories,
+
+37
+00:02:22,260 --> 00:02:28,710
+which are indistinguishable from
+real ones by simply suggesting and
+
+38
+00:02:28,710 --> 00:02:31,970
+imagining, especially in children
+who have vivid imaginations.
+
+39
+00:02:33,930 --> 00:02:34,940
+Here is a summary.
+
+40
+00:02:34,940 --> 00:02:39,690
+The green process of consolidation takes
+the brain state in active memory and
+
+41
+00:02:39,690 --> 00:02:44,110
+stores it in long term memory by modifying
+synapses on the dendrites of neurons.
+
+42
+00:02:44,110 --> 00:02:47,730
+These long term memories can remain
+dormant for a long time until the memory
+
+43
+00:02:47,730 --> 00:02:52,480
+is retrieved and reinstated, by the red
+process, in short term working memory.
+
+44
+00:02:52,480 --> 00:02:57,590
+The reinstated memory is in a new context,
+which can itself be transferred to
+
+45
+00:02:57,590 --> 00:03:02,120
+long term memory, thereby, altering
+the old memory though reconsolidation.
+
+46
+00:03:02,120 --> 00:03:04,870
+Our memories are intertwined
+with each other.
+
+47
+00:03:04,870 --> 00:03:08,790
+As we learn new things,
+our old memories also change.
+
+48
+00:03:08,790 --> 00:03:12,720
+Like consolidation,
+reconsolidation also occurs during sleep.
+
+49
+00:03:13,870 --> 00:03:17,880
+This is why it is more effective
+to space learning over time,
+
+50
+00:03:17,880 --> 00:03:20,220
+rather than mass learning all at once.
+
+51
+00:03:20,220 --> 00:03:24,610
+If you want to study something for
+an hour, you will retain it longer if
+
+52
+00:03:24,610 --> 00:03:29,320
+you spend 10 minutes each month over
+a semester than an hour on one day.
+
+53
+00:03:30,580 --> 00:03:34,980
+In contrast, if you wait until the day
+before an exam to cram the material,
+
+54
+00:03:34,980 --> 00:03:36,210
+you may be able to retrieve for
+
+55
+00:03:36,210 --> 00:03:39,920
+the next day on the exam but
+it will quickly fade from memory.
+
+56
+00:03:42,110 --> 00:03:43,860
+In addition to neurons,
+
+57
+00:03:43,860 --> 00:03:48,220
+brains have several types of
+supporting cells called glial cells.
+
+58
+00:03:48,220 --> 00:03:51,685
+The astrocyte is the most abundant
+glial cell in the human brain.
+
+59
+00:03:51,685 --> 00:03:55,500
+Astrocytes provide nutrients to neurons,
+
+60
+00:03:55,500 --> 00:04:00,990
+maintain extra cellular ion balance, and
+are involved with repair following injury.
+
+61
+00:04:02,370 --> 00:04:07,660
+In this photo of the cortex,
+the astrocytes are staying green and
+
+62
+00:04:07,660 --> 00:04:09,890
+the neurons are blue.
+
+63
+00:04:09,890 --> 00:04:13,630
+The intricate arms of the astrocytes
+wrap around the neurons,
+
+64
+00:04:13,630 --> 00:04:15,919
+each embracing thousands of synapses.
+
+65
+00:04:17,660 --> 00:04:21,060
+A recent experiment suggest
+that these astrocytes may
+
+66
+00:04:21,060 --> 00:04:23,750
+also have an important role in learning.
+
+67
+00:04:23,750 --> 00:04:28,910
+When human astrocytes were put into mouse
+brains, the humanized mice learned faster.
+
+68
+00:04:30,800 --> 00:04:35,520
+Interestingly, when Einstein's brain was
+examined to find out what made him so
+
+69
+00:04:35,520 --> 00:04:38,240
+awesomely creative,
+the only difference that could be
+
+70
+00:04:38,240 --> 00:04:42,280
+found was that he had many more
+astrocytes than the average human.
+
+71
+00:04:43,470 --> 00:04:46,670
+Could astrocytes be the key to
+understanding human intelligence.
+
+72
+00:04:48,500 --> 00:04:53,350
+Well, the more we learn about the brain,
+the more may we have to rethink learning.
+
+73
+00:04:53,350 --> 00:04:54,830
+I'm Terry Sejnowski.
+
+74
+00:04:54,830 --> 00:04:56,482
+Happy learning, until we meet again.
+

@@ -1,0 +1,716 @@
+1
+00:00:02,480 --> 00:00:08,190
+Khalid Azad has a passion for learning
+concepts at a deep, intuitive level,
+
+2
+00:00:08,190 --> 00:00:13,060
+he writes at BetterExplained.com, which
+serves millions of readers every year and
+
+3
+00:00:13,060 --> 00:00:16,100
+is used in dozens of university courses.
+
+4
+00:00:16,100 --> 00:00:20,500
+He's also authored a popular math book,
+It's a pleasure to welcome Khalid.
+
+5
+00:00:21,900 --> 00:00:27,290
+Hi Khalid, thanks for joining us I,
+I have to ask you first off, what got
+
+6
+00:00:27,290 --> 00:00:32,200
+you interested in this wonderful intuitive
+approach to learning that you use?
+
+7
+00:00:32,200 --> 00:00:36,460
+>> You know it actually started with a
+really frustrating math class I remember I
+
+8
+00:00:36,460 --> 00:00:39,870
+was in my freshman year at Princeton,
+you know, I had always enjoyed math in
+
+9
+00:00:39,870 --> 00:00:44,170
+high school, middle school and I was in
+my first class and I was just getting
+
+10
+00:00:44,170 --> 00:00:47,880
+destroyed. It was around the midterm, and
+I wasn't happy, things weren't going well.
+
+11
+00:00:47,880 --> 00:00:51,500
+The subject that I'd always
+liked just wasn't making sense
+
+12
+00:00:51,500 --> 00:00:54,770
+I remember the finals had come around and
+I was cramming and cramming and
+
+13
+00:00:54,770 --> 00:00:59,250
+cramming, and suddenly some analogies
+started coming to me about twists and
+
+14
+00:00:59,250 --> 00:01:02,920
+rotations and turns and that really
+applied to the class, so I was able to
+
+15
+00:01:02,920 --> 00:01:06,800
+visualize the concepts instead of just
+looking at the symbols and equations.
+
+16
+00:01:06,800 --> 00:01:09,550
+And because of that,
+I didn't really need to memorize anymore,
+
+17
+00:01:09,550 --> 00:01:13,720
+I could just think through it, and I could
+walk myself through my mental diagrams and
+
+18
+00:01:13,720 --> 00:01:17,640
+the equations kind of snapped into place,
+and so after that I realized that
+
+19
+00:01:17,640 --> 00:01:22,110
+a lot of learning could become so much
+more pleasant and more fun after we found
+
+20
+00:01:22,110 --> 00:01:25,350
+the right mental metaphors, diagrams,
+and analogies Instead of trying to,
+
+21
+00:01:25,350 --> 00:01:28,250
+you know, bash our heads against the,
+the raw definitions.
+
+22
+00:01:28,250 --> 00:01:31,510
+So from that I started trying to write and
+share my, my insights that seemed to help me.
+
+23
+00:01:33,890 --> 00:01:39,040
+>> It sounds like we share the same
+approach I'm, that's, that's the kind of
+
+24
+00:01:39,040 --> 00:01:43,510
+thing that I was trying to do,
+too I finally sort of cottoned on to that.
+
+25
+00:01:43,510 --> 00:01:48,290
+So you can, can you talk a little bit more
+about what approach you actually do use?
+
+26
+00:01:48,290 --> 00:01:50,540
+>> Sure just to keep things
+straight in my head,
+
+27
+00:01:50,540 --> 00:01:54,690
+I have this little, mnemonic I use,
+and I call it the ADEPT Method.
+
+28
+00:01:54,690 --> 00:01:56,050
+And basically what I'm looking for
+
+29
+00:01:56,050 --> 00:02:00,410
+in an explanation of something,
+I try to find an analogy, a Diagram,
+
+30
+00:02:00,410 --> 00:02:05,720
+an Example, a Plain English description
+and then a Technical Description.
+
+31
+00:02:05,720 --> 00:02:10,250
+And the, the general idea is actually kind
+of a C.D.M, diffused thinking Is that you,
+
+32
+00:02:10,250 --> 00:02:13,940
+when you're first learning, you want to
+start with the sort of fuzzy overview and
+
+33
+00:02:13,940 --> 00:02:16,800
+then gradually sharpen it up, until you
+get to the technical details at the edge.
+
+34
+00:02:16,800 --> 00:02:19,220
+So you start with the analogy,
+the diagram,
+
+35
+00:02:19,220 --> 00:02:23,020
+you get some examples, you have a plain,
+plain English description, and
+
+36
+00:02:23,020 --> 00:02:25,760
+at the very end, that's when you
+go to the technical description.
+
+37
+00:02:25,760 --> 00:02:28,230
+And you want to save that really
+focused thinking, for me, for
+
+38
+00:02:28,230 --> 00:02:31,370
+last because that's when I already have
+the framework in place to think about it.
+
+39
+00:02:32,440 --> 00:02:38,180
+>> Oh I like that, can you, can you share
+a, a specific example of the ADEPT method?
+
+40
+00:02:38,180 --> 00:02:42,240
+>> Sure I think one of my favorite topics
+is actually the the imaginary number,
+
+41
+00:02:42,240 --> 00:02:48,430
+so, most people myself included for a long
+time, it is confusing, sound imaginary,
+
+42
+00:02:48,430 --> 00:02:52,980
+real safe you know, how can we use
+in real life and after breaking it
+
+43
+00:02:52,980 --> 00:02:56,780
+down with the method, I was able to find
+some metaphors that seemed to help me.
+
+44
+00:02:56,780 --> 00:03:00,440
+>> You just use an analogy,
+then, to start with this?
+
+45
+00:03:00,440 --> 00:03:04,320
+>> Yeah, so, in this case,
+imaginary numbers, a lot of the the time
+
+46
+00:03:04,320 --> 00:03:07,100
+we'll start the definition, the technical
+definition, and that doesn't really make
+
+47
+00:03:07,100 --> 00:03:12,330
+things click one thing that helped me
+was the analogy about a 90 degree turn.
+
+48
+00:03:12,330 --> 00:03:16,020
+So if you imagine that negative
+numbers are sort of a full 180 so
+
+49
+00:03:16,020 --> 00:03:18,910
+you're going forward,
+then you turn all the way 180 to backward.
+
+50
+00:03:20,170 --> 00:03:24,980
+A imaginary number is basically when you
+start forward you actually just go up, so
+
+51
+00:03:24,980 --> 00:03:27,830
+instead of going all the way backward
+you're actually just going up.
+
+52
+00:03:27,830 --> 00:03:29,180
+So, imagine maybe you're going east and
+
+53
+00:03:29,180 --> 00:03:33,040
+west negatives are sort of flipping
+between east and west, but imaginary
+
+54
+00:03:33,040 --> 00:03:36,880
+number is the idea that hey maybe I
+should take a 90 degree turn north.
+
+55
+00:03:36,880 --> 00:03:39,230
+So now you're going along and
+woop you go north, and
+
+56
+00:03:39,230 --> 00:03:43,000
+suddenly you're in a different direction,
+It's not just duress it's a new direction
+
+57
+00:03:43,000 --> 00:03:48,010
+it's a second dimension really and
+that's kind of the key analogy behind it.
+
+58
+00:03:48,010 --> 00:03:52,090
+>> So in, in some sense then this can
+actually become like a diagram or a map.
+
+59
+00:03:53,670 --> 00:03:56,570
+>> Exactly, this topic is really
+easy to visualize because,
+
+60
+00:03:56,570 --> 00:03:59,630
+we already have the idea of second
+dimensions and going different directions,
+
+61
+00:03:59,630 --> 00:04:03,480
+so in my head, I kind of imagine,
+first a number going along,
+
+62
+00:04:03,480 --> 00:04:07,370
+and it gets a rotation,
+which turns and then it turns again.
+
+63
+00:04:08,730 --> 00:04:10,556
+So I have this mental
+diagram in my head.
+
+64
+00:04:10,556 --> 00:04:14,720
+And that actually leads right into
+an example that well, you know,
+
+65
+00:04:14,720 --> 00:04:17,880
+a lot of kids wonder, well what
+happens when you take four left turns?
+
+66
+00:04:17,880 --> 00:04:22,230
+Well if you keep turning, you'll face back
+the same direction after four turns, and
+
+67
+00:04:22,230 --> 00:04:23,640
+with imaginary numbers
+if you turn four times,
+
+68
+00:04:23,640 --> 00:04:26,270
+you'll face the positive numbers again.
+
+69
+00:04:26,270 --> 00:04:29,240
+And so the idea is that your
+diagram can really, you know,
+
+70
+00:04:29,240 --> 00:04:33,310
+almost lead to an example that you can
+figure out intuitively without having to
+
+71
+00:04:33,310 --> 00:04:37,040
+do a lot of math it kind of
+worked through the results I got.
+
+72
+00:04:37,040 --> 00:04:40,050
+>> I used to do something very similar,
+but
+
+73
+00:04:40,050 --> 00:04:44,620
+I had, what I had was a visual
+with a toilet paper roll that was
+
+74
+00:04:44,620 --> 00:04:50,070
+unrolling because of scrolling across
+the screen It was a lot of fun but,
+
+75
+00:04:50,070 --> 00:04:56,210
+but moving on so then you, actually
+just use a plain English description.
+
+76
+00:04:56,210 --> 00:04:59,075
+>> yeah, so once you've,
+wrapped your head around it
+
+77
+00:04:59,075 --> 00:05:03,560
+an analogy, a diagram, read about the example, start sharpening up what you've understood and
+
+78
+00:05:03,560 --> 00:05:04,990
+you want to describe it in your own words.
+
+79
+00:05:04,990 --> 00:05:07,430
+So rather than going right to the technical definitions,
+
+80
+00:05:07,430 --> 00:05:11,500
+lets think about what happens. I might say that we were moving in one direction and
+
+81
+00:05:11,500 --> 00:05:16,030
+we moved 90 degrees or we moved into a second dimension or there's kind of a different type
+
+82
+00:05:16,030 --> 00:05:20,290
+of number, there is one number that goes
+this way and one type that goes this way.
+
+83
+00:05:20,290 --> 00:05:22,890
+In your head, you want to
+get your own understanding,
+
+84
+00:05:22,890 --> 00:05:26,088
+put it in your own words and
+eventually you sharpen it up and
+
+85
+00:05:26,088 --> 00:05:29,760
+can I think a lot of times we
+try to understand things just by
+
+86
+00:05:29,760 --> 00:05:32,680
+someone else's words instead of
+really internalizing it ourselves.
+
+87
+00:05:34,060 --> 00:05:39,570
+>> Well, I, I think this is the perfect
+example of the real imaginative world
+
+88
+00:05:39,570 --> 00:05:43,040
+of mathematics and science and
+engineering, I mean,
+
+89
+00:05:43,040 --> 00:05:48,140
+we imagine things in ways that people
+don't ordinarily imagine and, and
+
+90
+00:05:48,140 --> 00:05:52,590
+I love how you're approaching this,
+because it really brings this to life.
+
+91
+00:05:52,590 --> 00:05:56,380
+But, you, what you do then you
+
+92
+00:05:56,380 --> 00:06:01,590
+move next on to an actual technical
+description of what you were describing?
+
+93
+00:06:01,590 --> 00:06:06,850
+>> Yeah, that's right, so the last step is
+follow me to use the formal notation that
+
+94
+00:06:06,850 --> 00:06:10,360
+came up with my little analogy here,
+its kind of like you have a song in
+
+95
+00:06:10,360 --> 00:06:14,780
+your head you might be humming it, doo ta
+dit da doo, but, humming in your head but,
+
+96
+00:06:14,780 --> 00:06:16,580
+other people don't really know
+what you're talking about.
+
+97
+00:06:16,580 --> 00:06:18,450
+You need to find the sheet music,
+you know,
+
+98
+00:06:18,450 --> 00:06:21,140
+explain, you know the scale
+that you're using, and
+
+99
+00:06:21,140 --> 00:06:25,030
+the notation, the timing, that way
+somebody else can really have a handle for
+
+100
+00:06:25,030 --> 00:06:27,370
+the hymn, instead of this little
+song that's going in your head.
+
+101
+00:06:27,370 --> 00:06:30,510
+So you want to take,
+you know, the rough words and
+
+102
+00:06:30,510 --> 00:06:32,640
+kind of break them down
+in a formal notation.
+
+103
+00:06:32,640 --> 00:06:34,930
+In the math world,
+the notation is "i",
+
+104
+00:06:34,930 --> 00:06:38,840
+lower case "I" and that actually
+represents, the imaginary dimension and
+
+105
+00:06:38,840 --> 00:06:42,760
+it's kind of like the number one but
+in just that imaginary dimension, It is in
+
+106
+00:06:42,760 --> 00:06:46,140
+there, now we can start talking about
+other ideas in a more technical sense.
+
+107
+00:06:46,140 --> 00:06:51,170
+So when I say, oh I want to face
+forward and to take two terms, and
+
+108
+00:06:51,170 --> 00:06:53,700
+I'll be facing negative,
+what that means is you start with one,
+
+109
+00:06:53,700 --> 00:06:58,390
+multiply by i, multiply by i again,
+and you should be facing negative.
+
+110
+00:06:58,390 --> 00:07:00,497
+Which should be is negative, so
+
+111
+00:07:00,497 --> 00:07:04,720
+a mathematician might write one
+times i times i is negative one.
+
+112
+00:07:04,720 --> 00:07:10,230
+Now you can simplify this you could say,
+oh, one times i squared equals negative
+
+113
+00:07:10,230 --> 00:07:14,140
+one, and you can simplify it further
+by just saying i squared equals -1.
+
+114
+00:07:14,140 --> 00:07:17,650
+And then the last step,
+is if you really want to simplify it,
+
+115
+00:07:17,650 --> 00:07:19,590
+you just take the square
+root of both sides, and
+
+116
+00:07:19,590 --> 00:07:22,900
+now you can say that i equal
+the square root of -1.
+
+117
+00:07:22,900 --> 00:07:26,220
+Now, this makes sense to us hopefully
+now because we've been able to
+
+118
+00:07:26,220 --> 00:07:30,830
+walk through it step by step, and turn our
+kind of intuitive fuzzy description into
+
+119
+00:07:30,830 --> 00:07:34,180
+the really technical one, and it's
+really painful to start with a technical
+
+120
+00:07:34,180 --> 00:07:38,120
+description I equals the square root of
+negative one, and try to guess what that
+
+121
+00:07:38,120 --> 00:07:40,880
+could've meant, and I promise you
+don't see all the steps ahead of time.
+
+122
+00:07:40,880 --> 00:07:44,610
+So I realized to myself I really needed
+to start at the fuzzy level, and
+
+123
+00:07:44,610 --> 00:07:45,700
+work my way down to technical.
+
+124
+00:07:47,480 --> 00:07:51,860
+>> Yes I, I think that's the thing about
+imaginary numbers people often don't
+
+125
+00:07:51,860 --> 00:07:56,690
+realize that they can dance,
+that they can twist and
+
+126
+00:07:56,690 --> 00:08:02,410
+rotate and that's kind of what they
+do It's quite beautiful actually,
+
+127
+00:08:02,410 --> 00:08:05,610
+do you have final learning tips for
+our viewers?"
+
+128
+00:08:05,610 --> 00:08:06,460
+.
+.
+
+129
+00:08:06,460 --> 00:08:10,011
+>> Yea, I think the biggest
+tip that I might say is just,
+
+130
+00:08:10,011 --> 00:08:14,390
+have a sense for
+yourself when something's not clicking.
+
+131
+00:08:14,390 --> 00:08:17,830
+And realize that it's probably just
+because of a missing piece. So you know,
+
+132
+00:08:17,830 --> 00:08:20,930
+in the past they might have just
+reread the same passage again and
+
+133
+00:08:20,930 --> 00:08:24,670
+again because it wasn't working, but
+maybe if you want to defer a diagram,
+
+134
+00:08:24,670 --> 00:08:27,410
+Google Images or
+maybe a talk or a slideshow, or
+
+135
+00:08:27,410 --> 00:08:30,340
+something that might have a different
+metaphor that can help you.
+
+136
+00:08:30,340 --> 00:08:32,350
+I realize, you know,
+with the ADEPT you know,
+
+137
+00:08:32,350 --> 00:08:36,750
+analogy diagram example plain-English
+technical, I need all the parts It's kind
+
+138
+00:08:36,750 --> 00:08:40,630
+of a part of a complete breakfast I
+need all the different pieces, and
+
+139
+00:08:40,630 --> 00:08:43,580
+then when I have them,
+I know the idea is very quick in my mind.
+
+140
+00:08:43,580 --> 00:08:45,290
+So, if I'm working on something and
+
+141
+00:08:45,290 --> 00:08:48,560
+it's just a technical, maybe an example,
+it's usually not enough for
+
+142
+00:08:48,560 --> 00:08:51,800
+me to really internalize it, so
+I start searching for the elements there,
+
+143
+00:08:51,800 --> 00:08:54,950
+I didn't even know that there were other
+pieces that I should be looking for so for
+
+144
+00:08:54,950 --> 00:09:00,880
+me, it's kind of a, checklist that helps
+me kind of zone in on what to do with it.
+
+145
+00:09:00,880 --> 00:09:05,902
+>> Great well, thank you so much I know
+our viewers will benefit greatly from
+
+146
+00:09:05,902 --> 00:09:10,768
+these ideas, which I myself have
+found really valuable thanks again.

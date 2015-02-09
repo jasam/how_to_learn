@@ -1,0 +1,832 @@
+1
+00:00:00,000 --> 00:00:05,952
+[BLANK_AUDIO]
+
+2
+00:00:05,952 --> 00:00:08,223
+In this video, I'm very pleased to
+
+3
+00:00:08,223 --> 00:00:11,101
+introduce you to Dr. Richard Felder and
+Dr.
+
+4
+00:00:11,101 --> 00:00:13,827
+Rebecca Brent, two educators who have had
+
+5
+00:00:13,827 --> 00:00:17,880
+an enormous impact on the landscape of
+education.
+
+6
+00:00:17,880 --> 00:00:22,170
+I first met Rich and Rebecca at the very
+beginning of my teaching career.
+
+7
+00:00:22,170 --> 00:00:27,070
+I was lucky enough to attend a workshop
+they taught on student centered learning.
+
+8
+00:00:27,070 --> 00:00:30,303
+That workshop changed the whole focus of
+my teaching and
+
+9
+00:00:30,303 --> 00:00:34,510
+allowed me to understand learning in a
+whole new, deeper way.
+
+10
+00:00:34,510 --> 00:00:36,830
+I think you'll find that your own
+understanding of
+
+11
+00:00:36,830 --> 00:00:40,630
+learning will change as you listen to this
+interview.
+
+12
+00:00:40,630 --> 00:00:44,210
+Rich Felder has written the best selling
+book on introductory
+
+13
+00:00:44,210 --> 00:00:48,240
+chemical engineering in the country and
+possibly in the world.
+
+14
+00:00:48,240 --> 00:00:51,000
+He's also won the Lifetime Achievement
+Award from the
+
+15
+00:00:51,000 --> 00:00:57,060
+American Society of Engineering Education
+for his enormously influential work.
+
+16
+00:00:57,060 --> 00:00:59,035
+But don't make the mistake of thinking
+that
+
+17
+00:00:59,035 --> 00:01:02,730
+Dr. Felder's work is only useful for
+engineers.
+
+18
+00:01:02,730 --> 00:01:06,330
+A big reason he's so influential is that
+the approaches
+
+19
+00:01:06,330 --> 00:01:10,870
+he uses are applicable to virtually any
+field of study.
+
+20
+00:01:10,870 --> 00:01:15,690
+It is actually Dr. Felder's enormously
+gifted wife, Dr. Rebecca Brent, the
+
+21
+00:01:15,690 --> 00:01:21,680
+president of the education consulting
+firm, Education Designs and long time
+
+22
+00:01:21,680 --> 00:01:24,300
+director of the NSF-sponsored SUCCEED
+
+23
+00:01:24,300 --> 00:01:27,430
+Coalition faculty development program, who
+has
+
+24
+00:01:27,430 --> 00:01:31,183
+helped spearhead the broad
+multidisciplinary impact
+
+25
+00:01:31,183 --> 00:01:34,360
+of the couples' work on education.
+
+26
+00:01:34,360 --> 00:01:37,200
+I think you'll find Dr. Felder and Dr.
+Brent's work to
+
+27
+00:01:37,200 --> 00:01:41,110
+have as powerful an influence on you as
+it's had on me.
+
+28
+00:01:42,760 --> 00:01:46,930
+So, you've written some extraordinarily
+helpful advice
+
+29
+00:01:46,930 --> 00:01:50,590
+for students about how to prepare for
+tests.
+
+30
+00:01:50,590 --> 00:01:53,850
+If you could sum that advice up in a
+nutshell, what would you say?
+
+31
+00:01:55,860 --> 00:02:00,332
+>> Let me first say something about how
+not to prepare for tests, which is what,
+
+32
+00:02:00,332 --> 00:02:06,770
+probably what about 90 plus percent of my
+students do to prepare for tests.
+
+33
+00:02:07,780 --> 00:02:10,873
+One, they may read the book.
+
+34
+00:02:10,873 --> 00:02:14,483
+Generally, they ignore the book, but they
+may read
+
+35
+00:02:14,483 --> 00:02:18,011
+the book like a novel, just going flipping
+through
+
+36
+00:02:18,011 --> 00:02:21,210
+it, maybe they underline, which, as far as
+I
+
+37
+00:02:21,210 --> 00:02:26,038
+can tell, is a singularly useless strategy
+for doing anything.
+
+38
+00:02:26,038 --> 00:02:29,591
+And then when they've done that, maybe
+they look through
+
+39
+00:02:29,591 --> 00:02:33,433
+the old homework solutions, and read
+through them again like a
+
+40
+00:02:33,433 --> 00:02:37,421
+novel and then imagine that they've
+studied, and that provides
+
+41
+00:02:37,421 --> 00:02:40,580
+them with no help at all in preparing for
+the test.
+
+42
+00:02:40,580 --> 00:02:44,470
+First of all, the test is not going to be
+just the homework again.
+
+43
+00:02:44,470 --> 00:02:47,710
+It's going to be new problems that they
+have to solve.
+
+44
+00:02:47,710 --> 00:02:51,540
+So, if that's how not to do it, how do you
+do it?
+
+45
+00:02:51,540 --> 00:02:55,010
+The only way that I've ever found that
+works to prepare
+
+46
+00:02:55,010 --> 00:02:58,640
+for tests is and I'm talking about problem
+solving tests now,
+
+47
+00:02:58,640 --> 00:03:03,480
+the kind that I give in engineering, is to
+work problems,
+
+48
+00:03:03,480 --> 00:03:06,900
+to set problems up, not to work through
+them in detail.
+
+49
+00:03:06,900 --> 00:03:09,720
+So I tell the students, you can start with
+the
+
+50
+00:03:09,720 --> 00:03:13,532
+homework problems that you solve and then
+solve it again.
+
+51
+00:03:13,532 --> 00:03:16,730
+Set up the solution without looking back
+at the worked
+
+52
+00:03:16,730 --> 00:03:20,710
+out solution that was graded and see how
+far you get.
+
+53
+00:03:20,710 --> 00:03:22,680
+If you can set it up so the only thing
+that's
+
+54
+00:03:22,680 --> 00:03:26,740
+left to do is algebra or simple math, then
+you're done.
+
+55
+00:03:26,740 --> 00:03:28,170
+Then go onto another problem.
+
+56
+00:03:28,170 --> 00:03:30,578
+Don't waste your time doing algebra and
+arithmetic.
+
+57
+00:03:30,578 --> 00:03:34,962
+You're not learning anything from that,
+and then maybe go to your book
+
+58
+00:03:34,962 --> 00:03:39,870
+and pick out another couple of problems,
+and try to set those up.
+
+59
+00:03:39,870 --> 00:03:42,520
+And the more of that you do, the
+
+60
+00:03:42,520 --> 00:03:44,980
+better you're going to be at solving
+problems, the more
+
+61
+00:03:44,980 --> 00:03:49,950
+likely you are to to be able to solve the
+problems that show up on the tests.
+
+62
+00:03:51,760 --> 00:03:56,580
+And the other thing that I strongly advise
+is work with other people.
+
+63
+00:03:56,580 --> 00:03:58,520
+Get into a study group.
+
+64
+00:03:58,520 --> 00:04:02,970
+Make it a serious study group and try to
+make sure that at least somebody in
+
+65
+00:04:02,970 --> 00:04:08,300
+the study group is smarter than you are
+and really knows how to solve the problem.
+
+66
+00:04:08,300 --> 00:04:11,430
+So that if you get stuck on something,
+this person's likely to be
+
+67
+00:04:11,430 --> 00:04:14,950
+able to figure it out, and all of you go
+marching along together.
+
+68
+00:04:14,950 --> 00:04:18,400
+And leave the beer and the snacks in the
+refrigerator.
+
+69
+00:04:18,400 --> 00:04:21,650
+Just spend your time working through
+problems, setting them up, making
+
+70
+00:04:21,650 --> 00:04:24,840
+sure you know how to solve it, going on
+doing more problems.
+
+71
+00:04:24,840 --> 00:04:28,350
+And then, when you're either exhausted or
+you've covered as much
+
+72
+00:04:28,350 --> 00:04:31,770
+as you need to cover, you can then hit the
+refrigerator.
+
+73
+00:04:32,810 --> 00:04:37,640
+>> This is so much like what we've talked
+about throughout this course as far as
+
+74
+00:04:37,640 --> 00:04:44,800
+simply putting, you, reading a book is not
+putting it necessarily in your brain.
+
+75
+00:04:44,800 --> 00:04:49,570
+And to, to have to actively grasp the
+material
+
+76
+00:04:49,570 --> 00:04:53,270
+and working with others sometimes is a
+very good
+
+77
+00:04:53,270 --> 00:04:55,890
+way to help reinforce what you're learning
+and also
+
+78
+00:04:55,890 --> 00:04:58,970
+fill in gaps in what you're trying to
+learn about.
+
+79
+00:04:58,970 --> 00:05:02,100
+So, I think that's fabulous advice and I
+
+80
+00:05:02,100 --> 00:05:04,430
+have to say, thank you for that wonderful
+check list.
+
+81
+00:05:06,580 --> 00:05:07,310
+>> You're welcome.
+
+82
+00:05:07,310 --> 00:05:11,400
+>> I think there's also some things you
+can do when
+
+83
+00:05:11,400 --> 00:05:15,960
+you get in the test because sometimes it's
+a high pressure situation.
+
+84
+00:05:15,960 --> 00:05:18,470
+You may feel a lot of anxiety.
+
+85
+00:05:18,470 --> 00:05:25,300
+And so, taking a moment when you get the
+test, looking through the whole thing just
+
+86
+00:05:25,300 --> 00:05:30,950
+to get a sense of where you're going, pick
+out the easy questions and start there.
+
+87
+00:05:30,950 --> 00:05:34,930
+And then if you get stuck somewhere, go on
+to
+
+88
+00:05:34,930 --> 00:05:39,756
+something else that you, you feel
+confident you can handle.
+
+89
+00:05:39,756 --> 00:05:42,300
+Keep moving, you know, don't stop.
+
+90
+00:05:42,300 --> 00:05:47,932
+Sometimes when we're anxious, we, we just
+freeze.
+
+91
+00:05:47,932 --> 00:05:50,150
+And keep moving, keep working.
+
+92
+00:05:50,150 --> 00:05:53,900
+Even if you can't get everything, go for
+partial credit.
+
+93
+00:05:53,900 --> 00:05:54,510
+>> Right.
+
+94
+00:05:54,510 --> 00:05:56,867
+>> Get some of it, put something down and
+
+95
+00:05:56,867 --> 00:05:59,689
+that will help you be more successful on
+your test.
+
+96
+00:05:59,689 --> 00:06:03,640
+Also I've had students who really felt
+rising anxiety if
+
+97
+00:06:03,640 --> 00:06:08,850
+they got to a question that they couldn't
+answer right away.
+
+98
+00:06:08,850 --> 00:06:13,399
+If you find yourself really getting upset,
+to just stop, take a
+
+99
+00:06:13,399 --> 00:06:17,458
+deep breath, pause for a moment and then
+look back at it.
+
+100
+00:06:17,458 --> 00:06:21,240
+Just calming down a little bit can go a
+long way.
+
+101
+00:06:21,240 --> 00:06:22,260
+>> Oh, it can.
+
+102
+00:06:22,260 --> 00:06:24,756
+Well, that's one of the things we've also
+talked about
+
+103
+00:06:24,756 --> 00:06:29,370
+in the course, is breathing from the belly
+to help
+
+104
+00:06:29,370 --> 00:06:35,700
+draw in and, and really do deep breathing,
+that that's a very effective
+
+105
+00:06:35,700 --> 00:06:41,040
+technique to neuro-physiologically allow
+yourself to calm down.
+
+106
+00:06:41,040 --> 00:06:46,430
+And another interesting thing and I think
+for our viewers this shows a bit of
+
+107
+00:06:46,430 --> 00:06:52,330
+the difference in approach of different
+top quality educators.
+
+108
+00:06:52,330 --> 00:06:55,510
+One thing we've talked about is, just
+touch at
+
+109
+00:06:55,510 --> 00:06:57,850
+the very beginning when you're starting to
+look through
+
+110
+00:06:57,850 --> 00:07:01,380
+a test, touch on and start working some of
+
+111
+00:07:01,380 --> 00:07:04,740
+the more difficult problems, just until
+you get stuck.
+
+112
+00:07:04,740 --> 00:07:06,540
+So you, it takes willpower.
+
+113
+00:07:06,540 --> 00:07:08,510
+You have to pull yourself off quickly as
+
+114
+00:07:08,510 --> 00:07:11,310
+soon as you can detect that you're getting
+stuck.
+
+115
+00:07:11,310 --> 00:07:14,540
+But that that actually gets your focused
+
+116
+00:07:14,540 --> 00:07:18,080
+attention on it, then pulls that attention
+away.
+
+117
+00:07:18,080 --> 00:07:22,530
+And when you're working another, easier
+problem, it allows you to,
+
+118
+00:07:22,530 --> 00:07:26,610
+to in the background, your diffuse mode
+is, is working away.
+
+119
+00:07:26,610 --> 00:07:31,420
+And so, then you revisit that more
+difficult problem, you've got a little
+
+120
+00:07:31,420 --> 00:07:35,500
+bit more going on intellectually because
+you've had time to think about it.
+
+121
+00:07:35,500 --> 00:07:38,465
+If you wait for the, the and do the
+hardest
+
+122
+00:07:38,465 --> 00:07:42,220
+problems later in the test, sometimes that
+can create problems.
+
+123
+00:07:42,220 --> 00:07:45,270
+There's, so there's diff, different
+approaches.
+
+124
+00:07:45,270 --> 00:07:51,250
+And I think, different folks, if they are
+aware of the different kinds of approaches,
+
+125
+00:07:51,250 --> 00:07:55,900
+it gives them more tools that they can use
+for their intellectual toolkits.
+
+126
+00:07:55,900 --> 00:08:00,300
+>> Exactly, I think that's always
+important, to
+
+127
+00:08:00,300 --> 00:08:02,450
+look at all the advice, look at all the
+
+128
+00:08:02,450 --> 00:08:06,290
+suggestions, try things, give them enough
+of a try
+
+129
+00:08:06,290 --> 00:08:08,702
+that you see how well they work for you.
+
+130
+00:08:08,702 --> 00:08:11,123
+So I think that's important for your
+
+131
+00:08:11,123 --> 00:08:14,100
+students [CROSSTALK] to always be, be
+doing.
+
+132
+00:08:14,100 --> 00:08:17,471
+>> And I would extend that actually, the,
+the advice you
+
+133
+00:08:17,471 --> 00:08:21,980
+just gave, I think is life advice, not
+just for taking tests.
+
+134
+00:08:21,980 --> 00:08:25,240
+I mean, there's, there's this magical
+phenomenon that I've experienced many
+
+135
+00:08:25,240 --> 00:08:29,750
+times in my life of I'm working on
+something, a problem.
+
+136
+00:08:29,750 --> 00:08:34,100
+When I was a student, it might be a
+problem on a homework assignment.
+
+137
+00:08:34,100 --> 00:08:35,900
+It could have been a problem on a test.
+
+138
+00:08:35,900 --> 00:08:38,050
+It could be a problem, it could have been
+a problem
+
+139
+00:08:38,050 --> 00:08:42,580
+in my doctoral research or in a,
+something I'm working on.
+
+140
+00:08:42,580 --> 00:08:48,350
+When I went into research as a faculty
+member, but I'm struggling with something.
+
+141
+00:08:48,350 --> 00:08:50,520
+I can't make any headway on it.
+
+142
+00:08:50,520 --> 00:08:53,630
+My natural tendency is just to keep
+grinding on
+
+143
+00:08:53,630 --> 00:08:57,780
+it and keep banging my head against that
+concrete wall.
+
+144
+00:08:57,780 --> 00:09:01,115
+And it doesn't damage the wall at all.
+
+145
+00:09:01,115 --> 00:09:03,620
+>> [LAUGH]
+>> It's not too good for my head.
+
+146
+00:09:03,620 --> 00:09:05,590
+And what I found is, when out of
+
+147
+00:09:05,590 --> 00:09:08,810
+desperation or just because I needed a
+break
+
+148
+00:09:08,810 --> 00:09:14,510
+or whatever, I stopped grinding on it and
+I went off and I did something else.
+
+149
+00:09:14,510 --> 00:09:18,760
+I took a walk, I took a nap, I went to
+work on something else I was working on.
+
+150
+00:09:18,760 --> 00:09:21,310
+And then when I came around later, got
+back
+
+151
+00:09:21,310 --> 00:09:25,720
+to work on the problem, the solution was
+magically there.
+
+152
+00:09:25,720 --> 00:09:30,250
+And, you know, I, I, I tend to believe
+what I've read in cognitive science about
+
+153
+00:09:31,640 --> 00:09:36,100
+all of the stuff going on underneath the
+conscious part that I'm aware of.
+
+154
+00:09:36,100 --> 00:09:39,914
+And somewhere in that part of my brain is
+somebody or
+
+155
+00:09:39,914 --> 00:09:44,628
+something that's a lot smarter than
+whatever I think of as me.
+
+156
+00:09:44,628 --> 00:09:48,361
+And once I've gotten started on the
+problem exactly as you've
+
+157
+00:09:48,361 --> 00:09:51,742
+just described, and then I get away from
+it and it's like
+
+158
+00:09:51,742 --> 00:09:54,631
+I'm turning it over to that part of my
+brain which
+
+159
+00:09:54,631 --> 00:09:58,312
+is smarter and it somehow solves the
+problem when I come back.
+
+160
+00:09:58,312 --> 00:10:00,280
+There's the solution, like magic.
+
+161
+00:10:00,280 --> 00:10:05,660
+>> Yes, that's, that's the idea, is
+basically when you
+
+162
+00:10:05,660 --> 00:10:09,780
+purposefully pull your attention off or
+allow your attention to drift
+
+163
+00:10:09,780 --> 00:10:14,450
+off, that actually opens access to the
+resting, the neural resting
+
+164
+00:10:14,450 --> 00:10:18,410
+states that you need to be able to solve
+the problem.
+
+165
+00:10:18,410 --> 00:10:23,348
+And just alluding to some of the same life
+issues, sometimes my husband and
+
+166
+00:10:23,348 --> 00:10:27,566
+I will be, we'll be thinking about a
+problem that we have to solve.
+
+167
+00:10:27,566 --> 00:10:31,976
+For example, how do we schedule
+interviews, how do we and,
+
+168
+00:10:31,976 --> 00:10:36,744
+and we'll say, you know, we don't have to
+solve this tonight.
+
+169
+00:10:36,744 --> 00:10:41,930
+And sure enough, within another day or
+two, the answers will come to us.
+
+170
+00:10:41,930 --> 00:10:45,190
+>> My mother used to call that give your
+subconscious an assignment.
+
+171
+00:10:45,190 --> 00:10:49,350
+So, I often think about that.
+
+172
+00:10:49,350 --> 00:10:52,122
+>> Your mother was very, very smart.
+
+173
+00:10:52,122 --> 00:11:02,122
+[BLANK_AUDIO]

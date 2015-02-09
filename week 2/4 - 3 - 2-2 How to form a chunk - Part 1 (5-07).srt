@@ -1,0 +1,370 @@
+1
+00:00:04,920 --> 00:00:06,530
+In this video, we're going to give you
+
+2
+00:00:06,530 --> 00:00:09,800
+a little background about how to make a
+chunk.
+
+3
+00:00:09,800 --> 00:00:11,560
+If you're learning to play a difficult
+
+4
+00:00:11,560 --> 00:00:14,970
+song on the guitar, the neural
+representation
+
+5
+00:00:14,970 --> 00:00:19,650
+of the song in your mind can be considered
+as a rather large chunk.
+
+6
+00:00:19,650 --> 00:00:22,130
+You would first listen to the song.
+
+7
+00:00:22,130 --> 00:00:26,100
+Maybe you'd even watch someone else
+playing the song especially if you were
+
+8
+00:00:26,100 --> 00:00:30,780
+just a beginner who was learning things
+like, how to hold the guitar.
+
+9
+00:00:30,780 --> 00:00:33,520
+Getting an initial sense of the pattern
+you want to
+
+10
+00:00:33,520 --> 00:00:37,940
+master for yourself is similar for most
+subjects or skills.
+
+11
+00:00:37,940 --> 00:00:41,470
+You often have to grasp little bits of
+songs that become
+
+12
+00:00:41,470 --> 00:00:46,690
+neuro mini-chunks, which will later join
+together into larger chunks.
+
+13
+00:00:46,690 --> 00:00:51,440
+For example, over several days, you might
+learn how to smoothly
+
+14
+00:00:51,440 --> 00:00:55,780
+place the musical passages on a guitar,
+and when you've grasped
+
+15
+00:00:55,780 --> 00:01:00,020
+those passages, you could join them
+together with other passages that
+
+16
+00:01:00,020 --> 00:01:03,440
+you've learned, gradually putting
+everything together
+
+17
+00:01:03,440 --> 00:01:04,500
+so you can play the song.
+
+18
+00:01:05,710 --> 00:01:10,480
+In learning a sport, say basketball,
+soccer, golf.
+
+19
+00:01:10,480 --> 00:01:15,290
+You grasp and master various bits and
+pieces of the skills you need.
+
+20
+00:01:15,290 --> 00:01:17,840
+You're creating little neural mini-chunks,
+that you
+
+21
+00:01:17,840 --> 00:01:23,090
+can then gradually knit together into
+larger neural chunks.
+
+22
+00:01:23,090 --> 00:01:26,980
+Later you can hit those larger chunks into
+still larger
+
+23
+00:01:26,980 --> 00:01:30,750
+and more complex chunks that you can draw
+up in
+
+24
+00:01:30,750 --> 00:01:34,310
+an instant, in reaction to say to a
+slight, shift
+
+25
+00:01:34,310 --> 00:01:38,040
+and twist in a soccer ball that's coming
+your way.
+
+26
+00:01:38,040 --> 00:01:41,220
+The best chunks are the ones that are so
+well ingrained, that
+
+27
+00:01:41,220 --> 00:01:42,890
+you don't even have to consciously
+
+28
+00:01:42,890 --> 00:01:46,500
+think about connecting the neural pattern
+together.
+
+29
+00:01:46,500 --> 00:01:49,960
+That, actually, is the point of making
+complex
+
+30
+00:01:49,960 --> 00:01:55,580
+ideas, movements or reactions into a
+single chunk.
+
+31
+00:01:55,580 --> 00:01:58,170
+You can see this in language learning.
+
+32
+00:01:58,170 --> 00:02:01,570
+In the beginning often just saying a
+single word with the
+
+33
+00:02:01,570 --> 00:02:06,340
+proper nuance, tone and accent involves a
+lot of practice.
+
+34
+00:02:06,340 --> 00:02:13,320
+Stringing extemporaneous sentences together
+involves the ability to creatively
+
+35
+00:02:13,320 --> 00:02:20,060
+mix together various complex mini-chunks
+and chunks in the new language.
+
+36
+00:02:20,060 --> 00:02:22,090
+To see what I mean, try repeating the
+
+37
+00:02:22,090 --> 00:02:25,190
+following tongue-twister in the Indian
+language of Kannada.
+
+38
+00:02:26,220 --> 00:02:27,360
+>> Hi, I am Shilpa Konkani.
+
+39
+00:02:27,360 --> 00:02:30,180
+I am native speaker of Kannada which is
+
+40
+00:02:30,180 --> 00:02:32,720
+one of the oldest language spoken in
+India.
+
+41
+00:02:32,720 --> 00:02:35,480
+Today, I'm going share you a
+tongue-twister in Kannada.
+
+42
+00:02:35,480 --> 00:02:36,560
+So let's get started.
+
+43
+00:02:36,560 --> 00:02:38,360
+Terikere yri male muru kari kurimari meyuthiddavu.
+>> Not easy, is it?
+
+44
+00:02:38,360 --> 00:02:44,540
+Unless you are a native
+
+45
+00:02:44,540 --> 00:02:50,390
+speaker of Kannada,
+
+46
+00:02:50,390 --> 00:02:55,920
+but the language was
+
+47
+00:02:55,920 --> 00:03:01,470
+learned bit by bit.
+
+48
+00:03:02,510 --> 00:03:06,500
+Learning in math and science involves the
+same approach.
+
+49
+00:03:06,500 --> 00:03:09,360
+When you're learning new math and science
+material,
+
+50
+00:03:09,360 --> 00:03:13,280
+you're often given sample problems with
+worked out solutions.
+
+51
+00:03:13,280 --> 00:03:16,080
+This is because, when you're first trying
+to understand how
+
+52
+00:03:16,080 --> 00:03:21,070
+to work a problem, you have a heavy
+cognitive load.
+
+53
+00:03:21,070 --> 00:03:24,780
+So it helps to start out with a work
+through example.
+
+54
+00:03:24,780 --> 00:03:30,230
+It's like first listening to a song before
+trying to play the song yourself.
+
+55
+00:03:30,230 --> 00:03:33,730
+Most of the details of the work out
+solution are right there, and your
+
+56
+00:03:33,730 --> 00:03:38,270
+job is simply to figure out why the steps
+are taken the way they are.
+
+57
+00:03:38,270 --> 00:03:43,410
+They can help you see the key features,
+and underline principles of a problem.
+
+58
+00:03:44,620 --> 00:03:49,000
+One concern about using worked out
+examples in math and science to help you
+
+59
+00:03:49,000 --> 00:03:54,530
+in starting to form chunks, is that it can
+be all too easy to focus too
+
+60
+00:03:54,530 --> 00:04:00,500
+much on why an individual step works and
+not on the connection between steps.
+
+61
+00:04:00,500 --> 00:04:01,260
+That is,
+
+62
+00:04:01,260 --> 00:04:05,760
+On why this particular step is the next
+thing you should do.
+
+63
+00:04:05,760 --> 00:04:07,850
+So keep in mind that I'm not just talking
+about
+
+64
+00:04:07,850 --> 00:04:11,370
+a cookie-cutter, just-do-as-you're told,
+mindless
+
+65
+00:04:11,370 --> 00:04:14,250
+approach when following a worked-out
+solution.
+
+66
+00:04:14,250 --> 00:04:19,440
+It's more like using a road map to help
+you when traveling to a new place.
+
+67
+00:04:19,440 --> 00:04:23,020
+Pay attention to what's going on around
+you when you're using the
+
+68
+00:04:23,020 --> 00:04:27,550
+map, and soon you'll find yourself able to
+get there on your own.
+
+69
+00:04:27,550 --> 00:04:30,780
+You'll even be able to figure out new ways
+of getting there.
+
+70
+00:04:30,780 --> 00:04:35,960
+Next, we'll walk you through the actual
+steps of chunk formation.
+
+71
+00:04:35,960 --> 00:04:37,440
+I'm Barbara Oakley.
+
+72
+00:04:37,440 --> 00:04:39,810
+Thanks for learning how to learn.
+
+73
+00:04:39,810 --> 00:04:39,980
+[MUSIC]
+
+74
+00:04:39,980 --> 00:04:44,160
+#Hey little girl sometimes the times get
+hard but soon
+
+75
+00:04:44,160 --> 00:04:48,540
+#the storm will pass and you'll be playing
+in the yard.
+
+76
+00:04:49,780 --> 00:04:55,040
+#Hey little girl sometimes you might feel
+sad but some
+
+77
+00:04:55,040 --> 00:04:59,830
+#day you'll realize it really ain't that
+bad. Just part of growing up.#
+
+78
+00:04:59,830 --> 00:05:07,720
+[MUSIC]
